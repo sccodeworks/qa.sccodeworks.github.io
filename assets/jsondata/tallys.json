@@ -20,7 +20,7 @@
     { "label": "De Receive", "icon": "call_made", "color": "primary", "action": "deReceive" },
     { "label": "Inbound Supplies/Record Supply", "icon": "comment", "color": "primary", "action": "InboundSupplies" },
     { "label": "Inquiry", "icon": "info", "color": "primary", "action": "tallysInquiry" },
-    { "label": "Receiver Synop", "icon": "report_problem", "color": "primary", "action": "ReceiverSynop" },
+    { "label": "Cancel Tally", "icon": "cancel", "color": "primary", "action": "ReceiverSynop" },
     { "label": "Supply Status", "icon": "report_problem", "color": "primary", "action": "supplyStatus" },
     { "label": "Rail Info", "icon": "info", "color": "primary", "action": "tallyRailInfo" },
     { "label": "Unload Info", "icon": "info", "color": "primary", "action": "tallyUnloadInfo" },
@@ -47,9 +47,9 @@
     { "label": "PDF Receipt", "icon": "send", "color": "primary", "action": "pdfReceipt" },
     { "label": "Back Out", "icon": "send", "color": "primary", "action": "backOutNoChg" },
     { "label": "Blind Tally", "icon": "send", "color": "primary", "action": "blindTally" },
-    { "label": "Print Tally", "icon": "call_made", "color": "primary", "action": "printTally" },
+    { "label": "Print Tally Sr", "icon": "print", "color": "primary", "action": "printTally" },
     { "label": "Release Plan", "icon": "call_made", "color": "primary", "action": "releasePlan" },
     { "label": "Email O/S/D", "icon": "call_made", "color": "primary", "action": "emailOSD" },
-    { "label": "Email Confirm", "icon": "call_made", "color": "primary", "action": "emailConfirm" }
+    { "label": "Email Confirm", "icon": "email", "color": "primary", "action": "emailConfirm" }
   ]
 }

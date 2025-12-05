@@ -1,0 +1,25 @@
+{
+  "header": [
+    { "label": "Comments", "icon": "assets/svg/dropdownicons/edit.svg",  "action": "receivableComments" },
+    { "label": "Inquiry", "icon": "assets/svg/dropdownicons/copy.svg", "action": "Inquiry" },
+    { "label": " Delete", "icon": "assets/svg/dropdownicons/delete.svg", "action": "deleteReceivable" }
+  ],
+
+  "search": {
+    "placeholder": "Search menu options"
+  },
+
+  "items": [
+    { "label": "Adjust Invoice", "icon": "call_made", "color": "primary", "action": "AdjustInvoice" },
+    { "label": "Credit Invoice", "icon": "call_made", "color": "primary", "action": "creditInvoice" },
+    { "label": "Adjust Inquiry", "icon": "call_made", "color": "primary", "action": "AdjustInquiry" },
+    { "label": "Invoice Inquiry", "icon": "info", "color": "primary", "action": "invoiceInquiry" },
+    { "label": "Print", "icon": "call_made", "color": "primary", "action": "Print" },
+    { "label": "Details", "icon": "call_made", "color": "primary", "action": "ReceivablesDetails" },
+    { "label": "Re-Calculate Balance", "icon": "call_made", "color": "primary", "action": "Recalculate" },
+    { "label": "Email Details", "icon": "call_made", "color": "primary", "action": "GetEmail" },
+    { "label": "Email Details New", "icon": "call_made", "color": "primary", "action": "GetEmailDetailNew" },
+    { "label": "Receiving Cover", "icon": "call_made", "color": "primary", "action": "ReceivingCover" },
+    { "label": "Mic Cover", "icon": "call_made", "color": "primary", "action": "MicCover" }
+  ]
+}
