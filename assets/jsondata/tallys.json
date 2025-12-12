@@ -45,7 +45,7 @@
     { "label": "Upd Total", "icon": "send", "color": "primary", "action": "updTotal" },
     { "label": "Hard Delete", "icon": "send", "color": "primary", "action": "hardDelete" },
     { "label": "PDF Receipt", "icon": "send", "color": "primary", "action": "pdfReceipt" },
-    { "label": "Back Out", "icon": "send", "color": "primary", "action": "backOutNoChg" },
+    { "label": "Back Out", "icon": "undo", "color": "primary", "action": "backOutNoChg" },
     { "label": "Blind Tally", "icon": "send", "color": "primary", "action": "blindTally" },
     { "label": "Print Tally Sr", "icon": "print", "color": "primary", "action": "printTally" },
     { "label": "Release Plan", "icon": "call_made", "color": "primary", "action": "releasePlan" },
