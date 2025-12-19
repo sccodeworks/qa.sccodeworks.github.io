@@ -50,6 +50,8 @@
     { "label": "Print Tally Sr", "icon": "print", "color": "primary", "action": "printTally" },
     { "label": "Release Plan", "icon": "call_made", "color": "primary", "action": "releasePlan" },
     { "label": "Email O/S/D", "icon": "call_made", "color": "primary", "action": "emailOSD" },
-    { "label": "Email Confirm", "icon": "email", "color": "primary", "action": "emailConfirm" }
+    { "label": "Email Confirm", "icon": "call_made", "color": "primary", "action": "emailConfirm" },
+    { "label": "Load To Labor", "icon": "work", "color": "primary", "action": "loadToLabor" },
+    { "label": "Dock Appointment", "icon": "work", "color": "primary", "action": "dockAppointment" }
   ]
 }
