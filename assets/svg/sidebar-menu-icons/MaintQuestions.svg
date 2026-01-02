@@ -5,11 +5,9 @@
   <!-- outer circle -->
   <circle cx="12" cy="12" r="10"/>
 
-  <!-- semi-circle door -->
-  <path d="M8 16a4 4 0 1 1 0-8"/>
-
-  <!-- exit arrow -->
-  <line x1="11" y1="12" x2="17" y2="12"/>
-  <polyline points="14 9 17 12 14 15"/>
+  <!-- question mark -->
+  <path d="M14 7a4 4 0 1 0-5.7 3.6"/>
+  <path d="M12 13v3"/>
+  <circle cx="12" cy="17" r="1"/>
 
 </svg>

@@ -1,0 +1,232 @@
+{
+    "header": [
+        {
+            "label": "Edit",
+            "icon": "assets/svg/dropdownicons/edit.svg",
+            "action": "itemUpdate"
+        },
+        {
+            "label": "Delete",
+            "icon": "assets/svg/dropdownicons/delete.svg",
+            "action": "itemDelete"
+        },
+        {
+            "label": "Copy",
+            "icon": "assets/svg/dropdownicons/copy.svg",
+            "action": "copy"
+        }
+    ],
+    "items": [
+        {
+            "label": "Comments",
+            "icon": "assets/svg/icons/Items/comments.svg",
+            "action": "itemComments"
+        },
+        {
+            "label": "Shelf Life",
+            "icon": "assets/svg/icons/Items/DeleteShelfLifeIcon.svg",
+            "action": "ShelfLife"
+        },
+        {
+            "label": "Re-Identify",
+            "icon": "assets/svg/icons/Items/ConvertFromLotIcon.svg",
+            "action": "ReIdentify"
+        },
+        {
+            "label": "Bucket Xfer",
+            "icon": "assets/svg/icons/Items/BucketXferIcon.svg",
+            "action": "BucketXfer"
+        },
+        {
+            "label": "Transfer Stock",
+            "icon": "assets/svg/icons/Items/TransferStock.svg",
+            "action": "TransferStock"
+        },
+        {
+            "label": "Deactivate",
+            "icon": "assets/svg/icons/Items/DeactivateIcon.svg",
+            "action": "Deactivate"
+        },
+        {
+            "label": "Activate",
+            "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
+            "action": "activate"
+        },
+        {
+            "label": "Recalculate Transit",
+            "icon": "assets/svg/icons/Items/MaintainWarehouseOpsIcon.svg",
+            "action": "recalculateTransit"
+        },
+        {
+            "label": "Kit Components",
+            "icon": "assets/svg/icons/Items/KitPickInquiryIcon.svg",
+            "action": "KitComponents"
+        },
+        {
+            "label": "Small Package Alerts",
+            "icon": "assets/svg/icons/Items/EmailLowStockIcon.svg",
+            "action": "Smallpackagealerts"
+        },
+        {
+            "label": "Item Attributes",
+            "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
+            "action": "ItemAttributes"
+        },
+        {
+            "label": "Line Sets",
+            "icon": "assets/svg/icons/Items/MaintainRatesIcon.svg",
+            "action": "LineSets"
+        },
+        {
+            "label": "Balance",
+            "icon": "assets/svg/icons/Items/Balance.svg",
+            "action": "itemBalance"
+        },
+        {
+            "label": "Item Stock Inquiry",
+            "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
+            "action": "ItemStockInquiry"
+        },
+        {
+            "label": "X-Reference",
+            "icon": "assets/svg/icons/Items/ItemMasterInquiryIcon.svg",
+            "action": "itemCrossRef"
+        },
+        {
+            "label": "Item Rebalance",
+            "icon": "assets/svg/icons/Items/MaintainWarehouseOpsIcon.svg",
+            "action": "itemRebalance"
+        },
+        {
+            "label": "Item Lots",
+            "icon": "assets/svg/icons/Items/LotStatusIcon.svg",
+            "action": "itemLots"
+        },
+        {
+            "label": "Item Stock Activity",
+            "icon": "assets/svg/icons/Items/ItemStockActivity.svg",
+            "action": "itemStockActivity"
+        },
+        {
+            "label": "Item Tally Work With",
+            "icon": "assets/svg/icons/Items/ItemOrdersIcon.svg",
+            "action": "itemTally"
+        },
+        {
+            "label": "Item Adjustment",
+            "icon": "assets/svg/icons/Items/MaintainWeightsIcon.svg",
+            "action": "itemAdjustment"
+        },
+        {
+            "label": "Item Location",
+            "icon": "assets/svg/icons/Items/MaintainWarehouseOpsIcon.svg",
+            "action": "itemLocation"
+        },
+        {
+            "label": "Item Status Inquiry",
+            "icon": "assets/svg/icons/Items/ItemStatusInquiry.svg",
+            "action": "itemStatus"
+        },
+        {
+            "label": "Throughput",
+            "icon": "assets/svg/icons/Items/MaintainWarehouseOpsIcon.svg",
+            "action": "Throughput"
+        },
+        {
+            "label": "Lot Status",
+            "icon": "assets/svg/icons/Items/LotStatusIcon.svg",
+            "action": "lotStatus"
+        },
+        {
+            "label": "Change UPC Code",
+            "icon": "assets/svg/icons/Items/ChangeUPCCodeIcon.svg",
+            "action": "changeUpcCode"
+        },
+        {
+            "label": "Item Orders",
+            "icon": "assets/svg/icons/Items/ItemOrdersIcon.svg",
+            "action": "itemOrders"
+        },
+        {
+            "label": "View Image",
+            "icon": "assets/svg/icons/Items/ViewImageIcon.svg",
+            "action": "itemImage",
+            "condition": "allowImageUpload"
+        },
+        {
+            "label": "Change Weaches",
+            "icon": "assets/svg/icons/Items/ChangeWeachesIcon.svg",
+            "action": "ChangeWeaches"
+        },
+        {
+            "label": "Kit Pick Inquiry",
+            "icon": "assets/svg/icons/Items/KitPickInquiryIcon.svg",
+            "action": "kitPickInquiry"
+        },
+        {
+            "label": "Maintain Item",
+            "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
+            "action": "ItemMasterMaintenance"
+        },
+        {
+            "label": "Maintain Warehouse Ops",
+            "icon": "assets/svg/icons/Items/MaintainWarehouseOpsIcon.svg",
+            "action": "ItemWarehouse"
+        },
+        {
+            "label": "Maintain Rates",
+            "icon": "assets/svg/icons/Items/MaintainRatesIcon.svg",
+            "action": "ItemRates"
+        },
+        {
+            "label": "Maintain Weights",
+            "icon": "assets/svg/icons/Items/MaintainWeightsIcon.svg",
+            "action": "Itemweights"
+        },
+        {
+            "label": "Item Master Inquiry",
+            "icon": "assets/svg/icons/Items/ItemMasterInquiryIcon.svg",
+            "action": "ItemMasterInquiry"
+        },
+        {
+            "label": "Convert From Lot",
+            "icon": "assets/svg/icons/Items/ConvertFromLotIcon.svg",
+            "action": "convertFromLot"
+        },
+        {
+            "label": "Convert To Lot",
+            "icon": "assets/svg/icons/Items/ConvertToLotIcon.svg",
+            "action": "convertToLot"
+        },
+        {
+            "label": "Hard Delete",
+            "icon": "assets/svg/icons/Items/HardDeleteIcon.svg",
+            "action": "hardDelete"
+        },
+        {
+            "label": "Hazmat Delete",
+            "icon": "assets/svg/icons/Items/HazmatDeleteIcon.svg",
+            "action": "hazmatDelete"
+        },
+        {
+            "label": "Kit Pick Sheet",
+            "icon": "assets/svg/icons/Items/KitPickSheetIcon.svg",
+            "action": "KitPickSheet"
+        },
+        {
+            "label": "HazMat Information",
+            "icon": "assets/svg/icons/Items/HazMatInformationIcon.svg",
+            "action": "HazmatGroup"
+        },
+        {
+            "label": "Email Low Stock",
+            "icon": "assets/svg/icons/Items/EmailLowStockIcon.svg",
+            "action": "EmailLowStock"
+        },
+        {
+            "label": "Delete Shelf Life",
+            "icon": "assets/svg/icons/Items/DeleteShelfLifeIcon.svg",
+            "action": "deleteShelfLife"
+        }
+    ]
+}

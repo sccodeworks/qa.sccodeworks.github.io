@@ -1,0 +1,19 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="2" y="2" width="44" height="44" rx="25" fill="#FFFFFF"/>
+
+  <!-- Invoice -->
+  <rect x="14" y="12" width="20" height="24" rx="2"
+        fill="none" stroke="#84919A" stroke-width="2"/>
+
+  <line x1="18" y1="18" x2="30" y2="18"
+        stroke="#84919A" stroke-width="2"/>
+  <line x1="18" y1="22" x2="30" y2="22"
+        stroke="#84919A" stroke-width="2"/>
+
+  <!-- Adjustment arrows -->
+  <path d="M18 30h6l-2-2m2 2l-2 2"
+        stroke="#84919A" stroke-width="2" fill="none"/>
+  <path d="M30 30h-6l2-2m-2 2l2 2"
+        stroke="#84919A" stroke-width="2" fill="none"/>
+</svg>

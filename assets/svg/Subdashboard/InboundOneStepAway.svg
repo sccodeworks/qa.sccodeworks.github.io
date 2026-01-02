@@ -1,0 +1,11 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Box -->
+  <rect x="4" y="5" width="12" height="10" rx="2"
+        stroke="#84919A" stroke-width="2"/>
+
+  <!-- Down Arrow (One-step) -->
+  <path d="M10 2v6"
+        stroke="#84919A" stroke-width="2"/>
+  <path d="M8 6l2 2 2-2"
+        stroke="#84919A" stroke-width="2" fill="none"/>
+</svg>

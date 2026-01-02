@@ -1,0 +1,7 @@
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 12A8 8 0 1 1 12 4"
+        stroke="#252C32" stroke-width="1.5"/>
+  <path d="M20 4V10H14"
+        stroke="#252C32" stroke-width="1.5"/>
+</svg>

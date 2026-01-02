@@ -1,0 +1,17 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none"
+ xmlns="http://www.w3.org/2000/svg">
+  <rect width="60" height="60" rx="10" fill="#F0FBFF"/>
+
+  <!-- Ledger Spine -->
+  <rect x="18" y="16" width="4" height="28" rx="2" fill="#00A9DF"/>
+
+  <!-- Register Rows -->
+  <rect x="26" y="18" width="14" height="3" rx="1.5" fill="#00A9DF"/>
+  <rect x="26" y="25" width="14" height="3" rx="1.5" fill="#00A9DF"/>
+  <rect x="26" y="32" width="14" height="3" rx="1.5" fill="#00A9DF"/>
+  <rect x="26" y="39" width="14" height="3" rx="1.5" fill="#00A9DF"/>
+
+  <!-- Adjustment Pencil -->
+  <path d="M40.5 22.5L44.5 26.5L36 35H32V31L40.5 22.5Z"
+        fill="#00A9DF"/>
+</svg>

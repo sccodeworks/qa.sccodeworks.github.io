@@ -1,0 +1,14 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none"
+ xmlns="http://www.w3.org/2000/svg">
+  <rect width="60" height="60" rx="10" fill="#F0FBFF"/>
+
+  <!-- Axis -->
+  <path d="M18 40H42" stroke="#00A9DF" stroke-width="2"/>
+
+  <!-- Trend -->
+  <path d="M20 34L28 28L34 32L40 24"
+        stroke="#00A9DF" stroke-width="3"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="40" cy="24" r="2" fill="#00A9DF"/>
+</svg>

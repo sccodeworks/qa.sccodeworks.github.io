@@ -1,0 +1,594 @@
+{
+    "header": [
+        {
+            "label": "Edit",
+            "icon": "assets/svg/dropdownicons/edit.svg",
+            "action": "OrdersUpdateForm"
+        },
+        {
+            "label": "Delete",
+            "icon": "assets/svg/dropdownicons/delete.svg",
+            "action": "OrdersDeleteForm"
+        },
+        {
+            "label": "Copy Order",
+            "icon": "assets/svg/dropdownicons/copy.svg",
+            "action": "CopyOrder"
+        }
+    ],
+    "search": {
+        "placeholder": "Search by Order"
+    },
+    "items": [
+        {
+            "label": "Order Comments",
+            "icon": "assets/svg/icons/orders/OrderComments.svg",
+            "action": "OrderComments"
+        },
+        {
+            "label": "Event History",
+            "icon": "assets/svg/icons/orders/EventHistory.svg",
+            "action": "OrderEventHistory"
+        },
+        {
+            "label": "Order Deship",
+            "icon": "assets/svg/icons/orders/OrderDeshipIcon.svg",
+            "action": "orderDship"
+        },
+        {
+            "label": "Send Order To Move",
+            "icon": "assets/svg/icons/orders/SendOrderToMove.svg",
+            "action": "OrderSendToMoveQueue"
+        },
+        {
+            "label": "Special Charges",
+            "icon": "assets/svg/icons/orders/SpecialCharges.svg",
+            "action": "specialcharge"
+        },
+        {
+            "label": "Order Ship Confirm",
+            "icon": "assets/svg/icons/orders/OrderShipConfirm.svg",
+            "action": "orderShipConfirm"
+        },
+        {
+            "label": "Order Details",
+            "icon": "assets/svg/icons/orders/OrderDetails.svg",
+            "action": "orderDetails"
+        },
+        {
+            "label": "BOL Inquiry",
+            "icon": "assets/svg/icons/orders/BOLInquiry.svg",
+            "action": "BOLInquiry"
+        },
+        {
+            "label": "Pick Ticket Inquiry",
+            "icon": "assets/svg/icons/orders/PickInquiry.svg",
+            "action": "PickTicketInquiry"
+        },
+        {
+            "label": "Order Event Entry",
+            "icon": "assets/svg/icons/orders/OrderEventEntry.svg",
+            "action": "OrderEventEntry"
+        },
+        {
+            "label": "Event Entry",
+            "icon": "assets/svg/icons/orders/eventEntry.svg",
+            "action": "EventEntry"
+        },
+        {
+            "label": "Labor II",
+            "icon": "assets/svg/icons/orders/Labor2.svg",
+            "action": "LaborII"
+        },
+        {
+            "label": "Recalc Special Charges",
+            "icon": "assets/svg/icons/orders/RecalcSpechCh.svg",
+            "action": "RecalcSpecCh"
+        },
+        {
+            "label": "FI Inquiry",
+            "icon": "assets/svg/icons/orders/FIInquiry.svg",
+            "action": "FIInquiry"
+        },
+        {
+            "label": "Move History Inquiry",
+            "icon": "assets/svg/icons/orders/MoveHistoryInquiry.svg",
+            "action": "moveHistoryInquiry"
+        },
+        {
+            "label": "Bill Of Lading Synopsis",
+            "icon": "assets/svg/icons/orders/BillOfLoadingSynopsis.svg",
+            "action": "billOfLadingSynopsis"
+        },
+        {
+            "label": "Delivery Appointment",
+            "icon": "assets/svg/icons/orders/DeliveryAppointment.svg",
+            "action": "DeliveryAppt"
+        },
+        {
+            "label": "Force Commit",
+            "icon": "assets/svg/icons/orders/ForceCommit.svg",
+            "action": "forceMq"
+        },
+        {
+            "label": "Print Bill Of Lading",
+            "icon": "assets/svg/icons/orders/PrintBillOfLading.svg",
+            "action": "OrderBillOfLading"
+        },
+        {
+            "label": "Print Pick Sheet",
+            "icon": "assets/svg/icons/orders/PrintOrderPicksheet.svg",
+            "action": "OrderPrintSheet"
+        },
+        {
+            "label": "Print Packing List",
+            "icon": "assets/svg/icons/orders/PrintPackingList.svg",
+            "action": "PrintPackingList"
+        },
+        {
+            "label": "Outbound / Record Supplies",
+            "icon": "assets/svg/icons/orders/OutboundRecordSupplies.svg",
+            "action": "OutboundSupplies"
+        },
+        {
+            "label": "Short Ship",
+            "icon": "assets/svg/icons/orders/ShortShip.svg",
+            "action": "ShortShip"
+        },
+        {
+            "label": "FI Ship With",
+            "icon": "assets/svg/icons/orders/FIShipWith.svg",
+            "action": "FiShipwith"
+        },
+        {
+            "label": "Inp Freight Invoice",
+            "icon": "assets/svg/icons/orders/InpFreightInvoice.svg",
+            "action": "InpFreightInvoice"
+        },
+        {
+            "label": "Print Freight Invoice",
+            "icon": "assets/svg/icons/orders/PrintFreightInvoice.svg",
+            "action": "PrintFreightInvoice"
+        },
+        {
+            "label": "Control Fields With Status",
+            "icon": "assets/svg/icons/orders/ControlFieldsWithStatus.svg",
+            "action": "OrderControl"
+        },
+        {
+            "label": "Order Serial Inquiry",
+            "icon": "assets/svg/icons/orders/OrderSerialInquiry.svg",
+            "action": "orderSerialInquiry"
+        },
+        {
+            "label": "Onsignee Address",
+            "icon": "assets/svg/icons/orders/OnsigneeAddress.svg",
+            "action": "OnsigneeAddress"
+        },
+        {
+            "label": "Bill To Add",
+            "icon": "assets/svg/icons/orders/BillToadd.svg",
+            "action": "BillToAdd"
+        },
+        {
+            "label": "Override Pick Sequence",
+            "icon": "assets/svg/icons/orders/OverridePickSequence.svg",
+            "action": "OverridePickSequence"
+        },
+        {
+            "label": "W/W Name & Address",
+            "icon": "assets/svg/icons/orders/WwNameAndAddress.svg",
+            "action": "WwNameandAddress"
+        },
+        {
+            "label": "Name & Address",
+            "icon": "assets/svg/icons/orders/NameAndAddress.svg",
+            "action": "NameandAddress"
+        },
+        {
+            "label": "Pro Update",
+            "icon": "assets/svg/icons/orders/ProUpdate.svg",
+            "action": "ProUpdate"
+        },
+        {
+            "label": "UCC 128 Label",
+            "icon": "assets/svg/icons/orders/WWUCC128.svg",
+            "action": "UCC128Label"
+        },
+        {
+            "label": "Print Pick / Pack",
+            "icon": "assets/svg/icons/orders/UpdateTotalIcon.svg",
+            "action": "PrtPickPack"
+        },
+        {
+            "label": "W/W Pallet Config",
+            "icon": "assets/svg/icons/orders/PDFReceiptIcon.svg",
+            "action": "WwPalletCfg"
+        },
+         {
+            "label": "W/W Pal Config",
+            "icon": "assets/svg/icons/orders/BackOutIcon.svg",
+            "action": "WwPalCfg"
+        },
+        {
+            "label": "Gen Pallet Cfg",
+            "icon": "assets/svg/icons/orders/PrintTallySrIcon.svg",
+            "action": "GenPalletCfg"
+        },
+        {
+            "label": "Pallet Config Read",
+            "icon": "assets/svg/icons/orders/ReleasePlanIcon.svg",
+            "action": "PalletConfig"
+        },
+        {
+            "label": "Print UCC 128s",
+            "icon": "assets/svg/icons/orders/PrintUCC128s.svg",
+            "action": "PrintUCC128s"
+        },
+        {
+            "label": "W/W UCC 128",
+            "icon": "assets/svg/icons/orders/WWUCC128.svg",
+            "action": "WwUCC128"
+        },
+        {
+            "label": "Change Consignee",
+            "icon": "assets/svg/icons/orders/changeconsignee.svg",
+            "action": "ChangeConsignee"
+        },
+        {
+            "label": "Print Config",
+            "icon": "assets/svg/icons/orders/printconfig.svg",
+            "action": "PrintConfig"
+        },
+        {
+            "label": "Load Serial Inquiry by BOL",
+            "icon": "assets/svg/icons/orders/loadSerialInquirybyBOL.svg",
+            "action": "loadSerialInquiry"
+        },
+         {
+            "label": "Print UCC 128s",
+            "icon": "assets/svg/icons/orders/PrintUCC128s.svg",
+            "action": "PrintUCC128s"
+        },
+        {
+            "label": "Decommit",
+            "icon": "assets/svg/icons/orders/decommit.svg",
+            "action": "Decommit"
+        },
+        {
+            "label": "Hard Delete",
+            "icon": "assets/svg/icons/orders/HardDelete.svg",
+            "action": "HardDelete"
+        },
+        {
+            "label": "Dock Schedule",
+            "icon": "assets/svg/icons/orders/DockSchedule.svg",
+            "action": "DockScheduler"
+        },
+        {
+            "label": "Labels",
+            "icon": "assets/svg/icons/orders/Labels.svg",
+            "action": "Labels"
+        },
+        {
+            "label": "Labels TLA",
+            "icon": "assets/svg/icons/orders/LabelsTLA.svg",
+            "action": "PrintOrderLabels"
+        },
+        {
+            "label": "Synopsis RPT",
+            "icon": "assets/svg/icons/orders/SynopsisRPT.svg",
+            "action": "SynopsisRPT"
+        },
+        {
+            "label": "Check Errors",
+            "icon": "assets/svg/icons/orders/CheckErrors.svg",
+            "action": "CheckErrors"
+        },
+        {
+            "label": "Control Fields No Status",
+            "icon": "assets/svg/icons/orders/ControlFieldNoStatus.svg",
+            "action": "ControlFields"
+        },
+        {
+            "label": "Commit Order",
+            "icon": "assets/svg/icons/orders/CommitOrder.svg",
+            "action": "CommitOrder"
+        },
+        {
+            "label": "Compare Serials",
+            "icon": "assets/svg/icons/orders/CompareSerials.svg",
+            "action": "CompareSris"
+        },
+        {
+            "label": "Depick Serial",
+            "icon": "assets/svg/icons/orders/DepickSerial.svg",
+            "action": "DepickSerial"
+        },
+        {
+            "label": "Delete From MoveQ",
+            "icon": "assets/svg/icons/orders/DeleteFromMoveQ.svg",
+            "action": "DeleteFromMoveQ"
+        },
+          {
+            "label": "Dock Sched",
+            "icon": "assets/svg/icons/orders/DockSched.svg",
+            "action": "DockSchedule"
+        },
+        {
+            "label": "Attributes",
+            "icon": "assets/svg/icons/orders/EntityAttributes.svg",
+            "action": "EntityAttributes"
+        },
+        {
+            "label": "EDI Data Inquiry",
+            "icon": "assets/svg/icons/orders/EDIDataInquiry.svg",
+            "action": "EDIDataInquiry"
+        },
+        {
+            "label": "Outbound EDI",
+            "icon": "assets/svg/icons/orders/OutboundEDI.svg",
+            "action": "OutboundEDI"
+        },
+        {
+            "label": "Metrics Inquiry",
+            "icon": "assets/svg/icons/orders/MetricsInquiry.svg",
+            "action": "MetricsInquiry"
+        },
+        {
+            "label": "Header Label",
+            "icon": "assets/svg/icons/orders/HeaderLabel.svg",
+            "action": "HeaderLabel"
+        },
+        {
+            "label": "Miscellaneous Ship",
+            "icon": "assets/svg/icons/orders/MiscellaneousShip.svg",
+            "action": "MiscellaneousShip"
+        },
+         {
+            "label": "Update ShipConf",
+            "icon": "assets/svg/icons/orders/UpdateShipConfirm.svg",
+            "action": "MiscellaneousShip"
+        },
+        {
+            "label": "Move History",
+            "icon": "assets/svg/icons/orders/MoveHistory.svg",
+            "action": "moveHistoryform"
+        },
+        {
+            "label": "Cancel Order",
+            "icon": "assets/svg/icons/orders/cancelOrder.svg",
+            "action": "CancelOrder"
+        },
+        {
+            "label": "Order Pallets",
+            "icon": "assets/svg/icons/orders/OrderPallets.svg",
+            "action": "OrderPallets"
+        },
+        {
+            "label": "Manifest Extra",
+            "icon": "assets/svg/icons/orders/ManifestExtra.svg",
+            "action": "ManifestExtra"
+        },
+        {
+            "label": "Order Packages",
+            "icon": "assets/svg/icons/orders/OrderPackages.svg",
+            "action": "OrdersPackages"
+        },
+        {
+            "label": "Multiple PO Numbers",
+            "icon": "assets/svg/icons/orders/MultiplePoNumbers.svg",
+            "action": "MultiplePoNumber"
+        },
+        {
+            "label": "Pallet Count",
+            "icon": "assets/svg/icons/orders/PalletCount.svg",
+            "action": "PalletCount"
+        },
+        {
+            "label": "Force 2 MoveQ",
+            "icon": "assets/svg/icons/orders/Force2Moveq.svg",
+            "action": "Force2Moveq"
+        },
+        {
+            "label": "Labor 2",
+            "icon": "assets/svg/icons/orders/Labor2.svg",
+            "action": "Labor"
+        },
+        {
+            "label": "Move Queue",
+            "icon": "assets/svg/icons/orders/MoveQueue.svg",
+            "action": "MoveQueue"
+        },
+        {
+            "label": "Auto Ship Confirm",
+            "icon": "assets/svg/icons/orders/AutoShipConfirm.svg",
+            "action": "AutoShipConfirm"
+        },
+        {
+            "label": "Create Return",
+            "icon": "assets/svg/icons/orders/CreateReturn.svg",
+            "action": "CreateReceipt"
+        },
+        {
+            "label": "Ship Confirm Inquiry",
+            "icon": "assets/svg/icons/orders/ShipConfig.svg",
+            "action": "ShipConfig"
+        },
+        {
+            "label": "Pick History",
+            "icon": "assets/svg/icons/orders/PickHistory.svg",
+            "action": "RealTimeHist"
+        },
+        {
+            "label": "Transfer Orders",
+            "icon": "assets/svg/icons/orders/TransferOrders.svg",
+            "action": "TransferOrders"
+        },
+        {
+            "label": "Split Order",
+            "icon": "assets/svg/icons/orders/SplitOrder.svg",
+            "action": "SplitOrder"
+        },
+        {
+            "label": "Un-Build Kit",
+            "icon": "assets/svg/icons/orders/UnBuildKit.svg",
+            "action": "UnBuildKits"
+        },
+        {
+            "label": "Verify Orders",
+            "icon": "assets/svg/icons/orders/VerifyOrders.svg",
+            "action": "VerifyOrders"
+        },
+        {
+            "label": "Parcel Info",
+            "icon": "assets/svg/icons/orders/ParcelInfo.svg",
+            "action": "ParcelInfo"
+        },
+        {
+            "label": "W/W BE - Serials",
+            "icon": "assets/svg/icons/orders/WwBESerials.svg",
+            "action": "SerialNumber"
+        },
+        {
+            "label": "Update Weights",
+            "icon": "assets/svg/icons/orders/UpdateWeights.svg",
+            "action": "UpdateWeights"
+        },
+        {
+            "label": "Clear CP Moves",
+            "icon": "assets/svg/icons/orders/ClearCPMoves.svg",
+            "action": "ClearCPMoves"
+        },
+        {
+            "label": "Run MQ Post",
+            "icon": "assets/svg/icons/orders/RunMQPost.svg",
+            "action": "RunMQPost"
+        },
+        {
+            "label": "Create Trigger",
+            "icon": "assets/svg/icons/orders/Trigger.svg",
+            "action": "Trigger"
+        },
+        {
+            "label": "Re-run Cleanup",
+            "icon": "assets/svg/icons/orders/ReRunCleanUp.svg",
+            "action": "RunMQPost"
+        },
+        {
+            "label": "VICS BOL Number",
+            "icon": "assets/svg/icons/orders/VicsBolNumber.svg",
+            "action": "VicsBOL"
+        },
+        {
+            "label": "Update Total",
+            "icon": "assets/svg/icons/orders/UpdateTotal.svg",
+            "action": "UpdateTotal"
+        },
+        {
+            "label": "View Supply Balance",
+            "icon": "assets/svg/icons/orders/ViewSupplyBalance.svg",
+            "action": "ViewSupplyBl"
+        },
+        {
+            "label": "Extra Data",
+            "icon": "assets/svg/icons/orders/ExtraData.svg",
+            "action": "extraData"
+        },
+        {
+            "label": "Control Pick",
+            "icon": "assets/svg/icons/orders/ControlPick.svg",
+            "action": "controlPick"
+        },
+        {
+            "label": "Print Trail In",
+            "icon": "assets/svg/icons/orders/PrintTrailIn.svg",
+            "action": "printTrail"
+        },
+        {
+            "label": "New Order Print",
+            "icon": "assets/svg/icons/orders/NewOrderPrint.svg",
+            "action": "NewOrderPrin"
+        },
+        {
+            "label": "Print Gift Card",
+            "icon": "assets/svg/icons/orders/PrintGiftCard.svg",
+            "action": "printGiftCard"
+        },
+        {
+            "label": "Serial List",
+            "icon": "assets/svg/icons/orders/SerialList.svg",
+            "action": "SerialList"
+        },
+        {
+            "label": "Reprint Freight Invoice",
+            "icon": "assets/svg/icons/orders/ReprintFrtInv.svg",
+            "action": "ReprntFrtInv"
+        },
+        {
+            "label": "Verify Load Out",
+            "icon": "assets/svg/icons/orders/VerifyLoadOut.svg",
+            "action": "VerifyLoadOut"
+        },
+        {
+            "label": "Pre Trail Inspection",
+            "icon": "assets/svg/icons/orders/PreTrailInspection.svg",
+            "action": "PretrailInspection"
+        },
+        {
+            "label": "Print Control",
+            "icon": "assets/svg/icons/orders/PrintControl.svg",
+            "action": "printControl"
+        },
+        {
+            "label": "Reprint Bill",
+            "icon": "assets/svg/icons/orders/ReprintBill.svg",
+            "action": "ReprintBill"
+        },
+        {
+            "label": "SCCHECK / QTY",
+            "icon": "assets/svg/icons/orders/SCCheckQty.svg",
+            "action": "SCCheckQty"
+        },
+        {
+            "label": "Verify Header",
+            "icon": "assets/svg/icons/orders/VerifyHeader.svg",
+            "action": "VerifyHeader"
+        },
+        {
+            "label": "Email New Order",
+            "icon": "assets/svg/icons/orders/EmailNewOrder.svg",
+            "action": "EmailNewOrder"
+        },
+        {
+            "label": "Email Entry",
+            "icon": "assets/svg/icons/orders/EmailEntry.svg",
+            "action": "EmailEntry"
+        },
+        {
+            "label": "Post Trial Inspection",
+            "icon": "assets/svg/icons/orders/PostTrailInspection.svg",
+            "action": "postTrial"
+        },
+        {
+            "label": "SCCHECK / Trigger",
+            "icon": "assets/svg/icons/orders/ScCheckTrigger.svg",
+            "action": "sscheckTrigger"
+        },
+        {
+            "label": "Print Freight Invoice",
+            "icon": "assets/svg/icons/orders/PrintFrtInv.svg",
+            "action": "PrintFrtInv"
+        },
+        {
+            "label": "Init Workflow Trigger",
+            "icon": "assets/svg/icons/orders/Trigger.svg",
+            "action": "InitWorkFlowTrigger"
+        },
+        {
+            "label": "Trans Trigger",
+            "icon": "assets/svg/icons/orders/Trigger.svg",
+            "action": "transTrigger"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- User -->
+  <circle cx="10" cy="7" r="3" stroke="#84919A" stroke-width="2"/>
+  <path d="M4 15c0-3 12-3 12 0" stroke="#84919A" stroke-width="2"/>
+
+  <!-- Attribute slider -->
+  <line x1="4" y1="18" x2="16" y2="18" stroke="#84919A" stroke-width="2"/>
+  <circle cx="9" cy="18" r="2" fill="#84919A"/>
+</svg>

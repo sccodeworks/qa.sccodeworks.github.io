@@ -1,0 +1,19 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none"
+ xmlns="http://www.w3.org/2000/svg">
+  <rect width="60" height="60" rx="10" fill="#F0FBFF"/>
+
+  <!-- Ledger Spine -->
+  <rect x="18" y="16" width="4" height="28" rx="2" fill="#00A9DF"/>
+
+  <!-- Register Rows -->
+  <rect x="26" y="18" width="16" height="3" rx="1.5" fill="#00A9DF"/>
+  <rect x="26" y="25" width="16" height="3" rx="1.5" fill="#00A9DF"/>
+  <rect x="26" y="32" width="16" height="3" rx="1.5" fill="#00A9DF"/>
+  <rect x="26" y="39" width="16" height="3" rx="1.5" fill="#00A9DF"/>
+
+  <!-- Index Dots -->
+  <circle cx="24" cy="19.5" r="1.5" fill="#00A9DF"/>
+  <circle cx="24" cy="26.5" r="1.5" fill="#00A9DF"/>
+  <circle cx="24" cy="33.5" r="1.5" fill="#00A9DF"/>
+  <circle cx="24" cy="40.5" r="1.5" fill="#00A9DF"/>
+</svg>

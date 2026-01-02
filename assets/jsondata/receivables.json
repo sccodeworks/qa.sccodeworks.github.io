@@ -1,25 +1,79 @@
 {
   "header": [
-    { "label": "Comments", "icon": "assets/svg/dropdownicons/edit.svg",  "action": "receivableComments" },
-    { "label": "Inquiry", "icon": "assets/svg/dropdownicons/copy.svg", "action": "Inquiry" },
-    { "label": " Delete", "icon": "assets/svg/dropdownicons/delete.svg", "action": "deleteReceivable" }
+    {
+      "label": "Comments",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "receivableComments"
+    },
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/dropdownicons/copy.svg",
+      "action": "Inquiry"
+    },
+    {
+      "label": " Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteReceivable"
+    }
   ],
-
   "search": {
     "placeholder": "Search menu options"
   },
-
   "items": [
-    { "label": "Adjust Invoice", "icon": "call_made", "color": "primary", "action": "AdjustInvoice" },
-    { "label": "Credit Invoice", "icon": "call_made", "color": "primary", "action": "creditInvoice" },
-    { "label": "Adjust Inquiry", "icon": "call_made", "color": "primary", "action": "AdjustInquiry" },
-    { "label": "Invoice Inquiry", "icon": "info", "color": "primary", "action": "invoiceInquiry" },
-    { "label": "Print", "icon": "call_made", "color": "primary", "action": "Print" },
-    { "label": "Details", "icon": "call_made", "color": "primary", "action": "ReceivablesDetails" },
-    { "label": "Re-Calculate Balance", "icon": "call_made", "color": "primary", "action": "Recalculate" },
-    { "label": "Email Details", "icon": "call_made", "color": "primary", "action": "GetEmail" },
-    { "label": "Email Details New", "icon": "call_made", "color": "primary", "action": "GetEmailDetailNew" },
-    { "label": "Receiving Cover", "icon": "call_made", "color": "primary", "action": "ReceivingCover" },
-    { "label": "Mic Cover", "icon": "call_made", "color": "primary", "action": "MicCover" }
+    {
+      "label": "Adjust Invoice",
+      "icon": "assets/svg/icons/receivables/AdjustInvoice.svg",
+      "action": "AdjustInvoice"
+    },
+    {
+      "label": "Credit Invoice",
+      "icon": "assets/svg/icons/receivables/CreditInvoice.svg",
+      "action": "creditInvoice"
+    },
+    {
+      "label": "Adjust Inquiry",
+      "icon": "assets/svg/icons/receivables/AdjustInquiry.svg",
+      "action": "AdjustInquiry"
+    },
+    {
+      "label": "Invoice Inquiry",
+      "icon": "assets/svg/icons/receivables/InvoiceInquiry.svg",
+      "action": "invoiceInquiry"
+    },
+    {
+      "label": "Print",
+      "icon": "assets/svg/icons/receivables/Printer.svg",
+      "action": "Print"
+    },
+    {
+      "label": "Details",
+      "icon": "assets/svg/icons/receivables/Details.svg",
+      "action": "ReceivablesDetails"
+    },
+    {
+      "label": "Re-Calculate Balance",
+      "icon": "assets/svg/icons/receivables/ReCalculateBalance.svg",
+      "action": "Recalculate"
+    },
+    {
+      "label": "Email Details",
+      "icon": "assets/svg/icons/receivables/EmailDetails.svg",
+      "action": "GetEmail"
+    },
+    {
+      "label": "Email Details New",
+      "icon": "assets/svg/icons/receivables/EmailDetailsNew.svg",
+      "action": "GetEmailDetailNew"
+    },
+    {
+      "label": "Receiving Cover",
+      "icon": "assets/svg/icons/receivables/ReceivingCover.svg",
+      "action": "ReceivingCover"
+    },
+    {
+      "label": "Mic Cover",
+      "icon": "assets/svg/icons/receivables/MICCover.svg",
+      "action": "MicCover"
+    }
   ]
 }
