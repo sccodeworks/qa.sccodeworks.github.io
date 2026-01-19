@@ -205,7 +205,7 @@
             "icon": "assets/svg/icons/orders/PDFReceiptIcon.svg",
             "action": "WwPalletCfg"
         },
-         {
+        {
             "label": "W/W Pal Config",
             "icon": "assets/svg/icons/orders/BackOutIcon.svg",
             "action": "WwPalCfg"
@@ -245,7 +245,7 @@
             "icon": "assets/svg/icons/orders/loadSerialInquirybyBOL.svg",
             "action": "loadSerialInquiry"
         },
-         {
+        {
             "label": "Print UCC 128s",
             "icon": "assets/svg/icons/orders/PrintUCC128s.svg",
             "action": "PrintUCC128s"
@@ -310,7 +310,7 @@
             "icon": "assets/svg/icons/orders/DeleteFromMoveQ.svg",
             "action": "DeleteFromMoveQ"
         },
-          {
+        {
             "label": "Dock Sched",
             "icon": "assets/svg/icons/orders/DockSched.svg",
             "action": "DockSchedule"
@@ -345,7 +345,7 @@
             "icon": "assets/svg/icons/orders/MiscellaneousShip.svg",
             "action": "MiscellaneousShip"
         },
-         {
+        {
             "label": "Update ShipConf",
             "icon": "assets/svg/icons/orders/UpdateShipConfirm.svg",
             "action": "MiscellaneousShip"
@@ -393,7 +393,7 @@
         {
             "label": "Labor 2",
             "icon": "assets/svg/icons/orders/Labor2.svg",
-            "action": "Labor"
+            "action": "Labor2"
         },
         {
             "label": "Move Queue",
@@ -589,6 +589,26 @@
             "label": "Trans Trigger",
             "icon": "assets/svg/icons/orders/Trigger.svg",
             "action": "transTrigger"
+        },
+        {
+            "label": "Email Confirm",
+            "icon": "assets/svg/icons/orders/EmailNewOrder.svg",
+            "action": "EmailConfirm"
+        },
+        {
+            "label": "Email Short SH",
+            "icon": "assets/svg/icons/orders/EmailEntry.svg",
+            "action": "EmailShortSH"
+        },
+        {
+            "label": "Email Delivery",
+            "icon": "assets/svg/icons/orders/EmailNewOrder.svg",
+            "action": "EmailDelivery"
+        },
+        {
+            "label": "Email Cancel",
+            "icon": "assets/svg/icons/orders/EmailEntry.svg",
+            "action": "EmailCancel"
         }
     ]
 }
