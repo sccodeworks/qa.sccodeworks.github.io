@@ -1,0 +1,22 @@
+{  
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateSupplyRate"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteSupplyRate"
+    },
+    {
+      "label": "De/Re-Activate",
+      "icon": "assets/svg/icons/Items/DeactivateIcon.svg",
+      "action": "deactivate"
+    }
+  ]
+}

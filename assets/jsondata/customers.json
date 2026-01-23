@@ -1,0 +1,34 @@
+{
+  "header": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "customersUpdate"
+    },
+    {
+      "label": "Consolidate",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "wCustomersConsolidate"
+    },
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/tallys/WRInquiryIcon.svg",
+      "action": "inquiry"
+    }
+  ],
+  "search": {
+    "placeholder": "Search by Customer No or Name"
+  },
+  "items": [
+    {
+      "label": "Account Attributes",
+      "icon": "assets/svg/sidebar-menu-icons/AccountAttributes.svg",
+      "action": "attributes"
+    },
+    {
+      "label": "Statement",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "statement"
+    }
+  ]
+}

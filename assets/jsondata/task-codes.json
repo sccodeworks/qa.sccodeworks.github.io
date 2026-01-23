@@ -1,0 +1,49 @@
+{
+  "header": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "taskCodesChangeForm"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "taskCodesDelete"
+    },
+    {
+      "label": "Copy Task Code",
+      "icon": "assets/svg/dropdownicons/copy.svg",
+      "action": "taskCodesCopyTaskCode"
+    }
+  ],
+  "search": {
+    "placeholder": "Search by Task Code"
+  },
+  "items": [
+    {
+      "label": "Constraint",
+      "icon": "assets/svg/icons/tallys/AddDockAppointmentIcon.svg",
+      "action": "taskCodesConstraintForm"
+    },
+    {
+      "label": "Copy Task Set",
+      "icon": "assets/svg/dropdownicons/copy.svg",
+      "action": "taskCodesCopyTaskSetForm"
+    },
+      {
+      "label": "Activate",
+            "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
+      "action": "taskcodesActivate"
+    },
+      {
+      "label": "Deactivate",
+            "icon": "assets/svg/icons/Items/DeactivateIcon.svg",
+      "action": "taskCodesDeactivate"
+    },  {
+      "label": "Attributes",
+      "icon": "assets/svg/sidebar-menu-icons/AccountAttributes.svg",
+      "action": "taskCodesAttributesForm"
+    }
+    
+  ]
+}

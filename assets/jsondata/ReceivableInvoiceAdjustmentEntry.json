@@ -1,0 +1,8 @@
+{
+  "search": {
+    "placeholder": "Search by Name"
+  },
+  "items": [
+    { "label": "Edit", "icon": "assets/svg/dropdownicons/edit.svg", "action": "adjustInvoiceUpdate" }
+   ]
+}

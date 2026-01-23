@@ -1,0 +1,84 @@
+{
+  "header": [
+    {
+      "label": "Comments",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "tallyDetailsComment"
+    },
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "tallyDetailUpdate"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "tallyDetailDelete"
+    }
+  ],
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "De-Receive",
+      "icon": "assets/svg/icons/tallys/DeReceiveIcon.svg",
+      "action": "tallyDtlDeReceive"
+    },
+    {
+      "label": "Serial Putaway",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "tallyDetailPutawayLocation"
+    },
+    {
+      "label": "Stock Status",
+      "icon": "assets/svg/icons/tallys/SupplyStatusIcon.svg",
+      "action": "stockStatus"
+    },
+    {
+      "label": "Activity Inquiry",
+      "icon": "assets/svg/icons/tallys/MetricsInquiryIcon.svg",
+      "action": "tallyStockActivityInquiry"
+    },
+    {
+      "label": "Extra Data",
+      "icon": "assets/svg/icons/tallys/ExtraDataIcon.svg",
+      "action": "extraData"
+    },
+    {
+      "label": "Stg Inquiry",
+      "icon": "assets/svg/icons/tallys/LPStagingInquiryIcon.svg",
+      "action": "tallyDetailsStgInquiry"
+    },
+    {
+      "label": "Hdl Inquiry",
+      "icon": "assets/svg/icons/tallys/WRInquiryIcon.svg",
+      "action": "TallyDetailsHdlInquiry"
+    },
+    {
+      "label": "Serial Inquiry",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "TallyDetailsSerialInquiry"
+    },
+    {
+      "label": "Serial Maint",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "tallyDetailsSerialMaint"
+    },
+    {
+      "label": "Purchase Order",
+      "icon": "assets/svg/icons/tallys/InboundSuppliesIcon.svg",
+      "action": "TallyDetailsPurchaseOrders"
+    },
+    {
+      "label": "Change Intrans",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "TallyDetailsChangeIntrans"
+    },
+    {
+      "label": "Move History",
+      "icon": "assets/svg/icons/tallys/MoveHistoryIcon.svg",
+      "action": "moveHistory"
+    }
+  ]
+}
