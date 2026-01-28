@@ -1,0 +1,17 @@
+{
+  "search": {
+    "placeholder": "Search by Operator / Equipment"
+  },
+  "items": [
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "Change"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteOpEquipException"
+    }
+  ]
+}

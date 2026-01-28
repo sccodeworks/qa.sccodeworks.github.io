@@ -1,0 +1,34 @@
+{
+  "header": [
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "Change"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "OperatorEquipmentDeleteForm"
+    },
+    {
+      "label": "Copy",
+      "icon": "assets/svg/dropdownicons/copy.svg",
+      "action": "OperatorEquipmentCopyForm"
+    }
+  ],
+  "search": {
+    "placeholder": "Search by Operator / Equipment"
+  },
+  "items": [
+    {
+      "label": "Details",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "OperatorEquipmentDetailsForm"
+    },
+    {
+      "label": "Exceptions",
+      "icon": "assets/svg/icons/tallys/RailInfoIcon.svg",
+      "action": "OpEquipExceptions"
+    }
+  ]
+}
