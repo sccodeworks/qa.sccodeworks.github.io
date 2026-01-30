@@ -1,0 +1,47 @@
+{
+  "header": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateLedgerCodes"
+    },
+    {
+      "label": " Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteLedger"
+    }
+  ],
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Consolidate",
+      "icon": "assets/svg/icons/receivables/AdjustInvoice.svg",
+      "action": "consolidate"
+    },
+    {
+      "label": "Entity Attributes",
+      "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
+      "action": "lcAttributesForm"
+    },
+    {
+      "label": "Transactions",
+      "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
+      "action": "ledgerCodesTransactions"
+    },
+    {
+      "label": "Revenue Inquiry",
+      "icon": "assets/svg/icons/receivables/AdjustInquiry.svg",
+      "action": "ledgerCodeRevenue"
+    },
+    {
+      "label": "Revenue Report",
+      "icon": "assets/svg/sidebar-menu-icons/SuppliesReport.svg",
+      "action": "ledgerCodeRevInquiry"
+    }
+    
+
+    
+    
+    ]}

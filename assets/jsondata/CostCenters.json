@@ -1,0 +1,13 @@
+{  
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "CostcenterUpdate"
+    }
+    
+  ]
+}
