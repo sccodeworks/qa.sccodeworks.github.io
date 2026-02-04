@@ -1,0 +1,23 @@
+{
+  "search": {
+    "placeholder": "Search by Menu Options"
+  },
+  "items": [
+        {
+      "label": "Change",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "supplyPoolUpdate"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "supplyPoolDelete"
+    },
+    {
+      "label": "Activity",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "activity"
+    }
+    
+  ]
+}

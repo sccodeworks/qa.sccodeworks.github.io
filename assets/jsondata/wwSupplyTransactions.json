@@ -1,0 +1,22 @@
+{  
+  "search": {
+    "placeholder": "Search Menu Options"
+  },
+  "items": [
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "getUpdateForm"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "SupplytransactionsDeleteForm"
+    },
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "SupplytransactionsInquiryForm"
+    }
+  ]
+}
