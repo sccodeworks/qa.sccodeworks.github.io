@@ -1,7 +1,7 @@
 {
   "header": [
     { "label": "Edit", "icon": "assets/svg/dropdownicons/edit.svg", "action": "getUpdateForm" },
-    { "label": "Copy", "icon": "assets/svg/dropdownicons/copy.svg", "action": "copyTally" },
+    { "label": "Copy", "icon": "assets/svg/dropdownicons/copy.svg", "action": "CopyTally" },
     { "label": "Delete", "icon": "assets/svg/dropdownicons/delete.svg", "action": "delete" }
   ],
   "search": {

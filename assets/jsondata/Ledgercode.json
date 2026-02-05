@@ -33,12 +33,12 @@
     {
       "label": "Revenue Inquiry",
       "icon": "assets/svg/icons/receivables/AdjustInquiry.svg",
-      "action": "ledgerCodeRevenue"
+      "action": "ledgerCodeRevInquiry"
     },
     {
       "label": "Revenue Report",
       "icon": "assets/svg/sidebar-menu-icons/SuppliesReport.svg",
-      "action": "ledgerCodeRevInquiry"
+      "action": "ledgerCodeRevenue"
     }
     
 

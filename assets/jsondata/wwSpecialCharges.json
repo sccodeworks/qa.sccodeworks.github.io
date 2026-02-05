@@ -1,0 +1,10 @@
+{
+  "search": {
+    "placeholder": "Search by Action"
+  },
+  "items": [
+    { "label": "Update", "icon": "assets/svg/dropdownicons/edit.svg", "action": "updateSpecialCharges" },
+    { "label": "Delete", "icon": "assets/svg/dropdownicons/delete.svg", "action": "deleteSpecialCharges" },
+    { "label": "Comments", "icon": "assets/svg/icons/Items/comments.svg", "action": "commentSpecialCharges" }
+  ]
+}

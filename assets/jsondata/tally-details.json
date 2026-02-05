@@ -2,7 +2,7 @@
   "header": [
     {
       "label": "Comments",
-      "icon": "assets/svg/dropdownicons/edit.svg",
+      "icon": "assets/svg/icons/Items/comments.svg",
       "action": "tallyDetailsComment"
     },
     {
@@ -38,7 +38,7 @@
     {
       "label": "Activity Inquiry",
       "icon": "assets/svg/icons/tallys/MetricsInquiryIcon.svg",
-      "action": "tallyStockActivityInquiry"
+      "action": "activityInquiry"
     },
     {
       "label": "Extra Data",

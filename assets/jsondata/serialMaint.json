@@ -1,0 +1,8 @@
+{
+  "search": {
+    "placeholder": "Search by Action"
+  },
+  "items": [
+    { "label": "Update", "icon": "assets/svg/dropdownicons/edit.svg", "action": "updateMaint" }
+  ]
+}
