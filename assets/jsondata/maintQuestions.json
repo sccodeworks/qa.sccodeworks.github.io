@@ -1,0 +1,22 @@
+{
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "MaintQuestionsChangeComponent"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "MaintQuestionsDeleteForm"
+    },
+    {
+      "label": "Copy",
+      "icon": "assets/svg/dropdownicons/copy.svg",
+      "action": "MaintQuestionsCopyForm"
+    }
+  ]
+}

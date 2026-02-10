@@ -1,0 +1,8 @@
+{
+  "search": {
+    "placeholder": "Search by Action"
+  },
+  "items": [
+    { "label": "Edit", "icon": "assets/svg/dropdownicons/edit.svg", "action": "updateTallyComment" }
+  ]
+}

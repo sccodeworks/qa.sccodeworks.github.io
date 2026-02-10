@@ -22,7 +22,7 @@
   "items": [
     {
       "label": "Account Attributes",
-      "icon": "assets/svg/sidebar-menu-icons/AccountAttributes.svg",
+      "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
       "action": "attributes"
     },
     {

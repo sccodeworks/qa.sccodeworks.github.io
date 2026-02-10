@@ -1,0 +1,12 @@
+{
+    "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateData"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+ 
+  "search": {
+    "placeholder": "Search deposit details"
+  },
+  "items": [
+    {
+      "label": "Cut",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "DepositBatchesDetailsCutForm"
+    }
+  ]
+}

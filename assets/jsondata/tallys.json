@@ -1,50 +1,239 @@
 {
   "header": [
-    { "label": "Edit", "icon": "assets/svg/dropdownicons/edit.svg", "action": "getUpdateForm" },
-    { "label": "Copy", "icon": "assets/svg/dropdownicons/copy.svg", "action": "CopyTally" },
-    { "label": "Delete", "icon": "assets/svg/dropdownicons/delete.svg", "action": "delete" }
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "getUpdateForm"
+    },
+    {
+      "label": "Copy",
+      "icon": "assets/svg/dropdownicons/copy.svg",
+      "action": "CopyTally"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "delete"
+    }
   ],
   "search": {
     "placeholder": "Search by Tally ID or Name"
   },
   "items": [
-    { "label": "Comments", "icon": "assets/svg/icons/tallys/TallyEventIcon.svg", "action": "comment" },
-    { "label": "Tally Posting", "icon": "assets/svg/icons/tallys/TallyPostingIcon.svg", "action": "Posting" },
-    { "label": "Tally Details", "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg", "action": "tallyDetails" },
-    { "label": "WR Inquiry", "icon": "assets/svg/icons/tallys/WRInquiryIcon.svg", "action": "wrInquiry" },
-    { "label": "Tally Event", "icon": "assets/svg/icons/tallys/TallyEventIcon.svg", "action": "tallyEvent" },
-    { "label": "Print Tally Sheets", "icon": "assets/svg/icons/tallys/PrintTallySheetsIcon.svg", "action": "tallyPrintingSheets" },
-    { "label": "Reprint Tally Receipt", "icon": "assets/svg/icons/tallys/PDFReceiptIcon.svg", "action": "tallyReceipt" },
-    { "label": "Tally Posting Errors", "icon": "assets/svg/icons/tallys/TallyPostingErrorsIcon.svg", "action": "tallyPosting" },
-    { "label": "Special Charges", "icon": "assets/svg/icons/tallys/SpecialChargesIcon.svg", "action": "specialcharge" },
-    { "label": "De Receive", "icon": "assets/svg/icons/tallys/DeReceiveIcon.svg", "action": "deReceive" },
-    { "label": "Inbound Supplies/Record Supply", "icon": "assets/svg/icons/tallys/InboundSuppliesIcon.svg", "action": "InboundSupplies" },
-    { "label": "Inquiry", "icon": "assets/svg/icons/tallys/InquiryIcon.svg", "action": "tallysInquiry" },
-    { "label": "Supply Status", "icon": "assets/svg/icons/tallys/SupplyStatusIcon.svg", "action": "supplyStatus" },
-    { "label": "Rail Info", "icon": "assets/svg/icons/tallys/RailInfoIcon.svg", "action": "tallyRailInfo" },
-    { "label": "Unload Info", "icon": "assets/svg/icons/tallys/UnloadInfoIcon.svg", "action": "tallyUnloadInfo" },
-    { "label": "Extra Data", "icon": "assets/svg/icons/tallys/ExtraDataIcon.svg", "action": "tallyExtraData" },
-    { "label": "Document History", "icon": "assets/svg/icons/tallys/DocumentHistoryIcon.svg", "action": "documentHistory" },
-    { "label": "Move History", "icon": "assets/svg/icons/tallys/MoveHistoryIcon.svg", "action": "tallysMoveHistory" },
-    { "label": "Metrics Inquiry", "icon": "assets/svg/icons/tallys/MetricsInquiryIcon.svg", "action": "metricsInquiry" },
-    { "label": "Outbound EDI", "icon": "assets/svg/icons/tallys/OutboundEDIIcon.svg", "action": "tallyOutboundEDI" },
-    { "label": "Inbound EDI", "icon": "assets/svg/icons/tallys/InboundEDIIcon.svg", "action": "tallyInboundEDI" },
-    { "label": "Tally Verification", "icon": "assets/svg/icons/tallys/TallyVerificationIcon.svg", "action": "tallyVerification" },
-    { "label": "X-Dock Inquiry", "icon": "assets/svg/icons/tallys/XDockInquiryIcon.svg", "action": "tallyCrossRefInquiry" },
-    { "label": "LP Staging Inquiry", "icon": "assets/svg/icons/tallys/LPStagingInquiryIcon.svg", "action": "tallyStagingInquiry" },
-    { "label": "Email Arrival", "icon": "assets/svg/icons/tallys/EmailArrivalIcon.svg", "action": "emailArrival" },
-    { "label": "Generate Special Charges", "icon": "assets/svg/icons/tallys/GenerateSpecialChargesIcon.svg", "action": "reCalcSPchg" },
-    { "label": "Recalculate Special Charges", "icon": "assets/svg/icons/tallys/RecalculateSpecialChargesIcon.svg", "action": "tallyReCalcSPchg" },
-    { "label": "Add Dock Appt", "icon": "assets/svg/icons/tallys/AddDockAppointmentIcon.svg", "action": "tallyAddDockAppt" },
-    { "label": "Copy Tally", "icon": "assets/svg/icons/tallys/CopyTallyIcon.svg", "action": "CopyTally" },
-    { "label": "ReCalc Qty/Wgh", "icon": "assets/svg/icons/tallys/RecalculateQtyWeightIcon.svg", "action": "recalculate" },
-    { "label": "Upd Total", "icon": "assets/svg/icons/tallys/UpdateTotalIcon.svg", "action": "updTotal" },
-    { "label": "PDF Receipt", "icon": "assets/svg/icons/tallys/PDFReceiptIcon.svg", "action": "pdfReceipt" },
-    { "label": "Back Out", "icon": "assets/svg/icons/tallys/BackOutIcon.svg", "action": "backOutNoChg" },
-    { "label": "Print Tally", "icon": "assets/svg/icons/tallys/PrintTallySheetsIcon.svg", "action": "printTally" },
-    { "label": "Release Plan", "icon": "assets/svg/icons/tallys/ReleasePlanIcon.svg", "action": "releasePlan" },
-    { "label": "Email O/S/D", "icon": "assets/svg/icons/tallys/EmailOSDIcon.svg", "action": "emailOSD" },
-    { "label": "Load To Labor", "icon": "assets/svg/icons/tallys/labor.svg", "action": "loadToLabor" },
-    { "label": "Dock Appointment", "icon": "assets/svg/icons/tallys/AddDockAppointmentIcon.svg", "action": "dockAppointment" }
+    {
+      "label": "Comments",
+      "icon": "assets/svg/icons/tallys/TallyEventIcon.svg",
+      "action": "comment"
+    },
+    {
+      "label": "Tally Posting",
+      "icon": "assets/svg/icons/tallys/TallyPostingIcon.svg",
+      "action": "Posting"
+    },
+    {
+      "label": "Tally Details",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "tallyDetails"
+    },
+    {
+      "label": "WR Inquiry",
+      "icon": "assets/svg/icons/tallys/WRInquiryIcon.svg",
+      "action": "wrInquiry"
+    },
+    {
+      "label": "Tally Event",
+      "icon": "assets/svg/icons/tallys/TallyEventIcon.svg",
+      "action": "tallyEvent"
+    },
+    {
+      "label": "Print Tally Sheets",
+      "icon": "assets/svg/icons/tallys/PrintTallySheetsIcon.svg",
+      "action": "tallyPrintingSheets"
+    },
+    {
+      "label": "Reprint Tally Receipt",
+      "icon": "assets/svg/icons/tallys/PDFReceiptIcon.svg",
+      "action": "tallyReceipt"
+    },
+    {
+      "label": "Tally Posting Errors",
+      "icon": "assets/svg/icons/tallys/TallyPostingErrorsIcon.svg",
+      "action": "tallyPosting"
+    },
+    {
+      "label": "Special Charges",
+      "icon": "assets/svg/icons/tallys/SpecialChargesIcon.svg",
+      "action": "specialcharge"
+    },
+    {
+      "label": "De Receive",
+      "icon": "assets/svg/icons/tallys/DeReceiveIcon.svg",
+      "action": "deReceive"
+    },
+    {
+      "label": "Inbound Supplies/Record Supply",
+      "icon": "assets/svg/icons/tallys/InboundSuppliesIcon.svg",
+      "action": "InboundSupplies"
+    },
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/tallys/InquiryIcon.svg",
+      "action": "tallysInquiry"
+    },
+    {
+      "label": "Cancel Tally",
+      "icon": "assets/svg/icons/tallys/CancelTallyIcon.svg",
+      "action": "ReceiverSynop"
+    },
+    {
+      "label": "Supply Status",
+      "icon": "assets/svg/icons/tallys/SupplyStatusIcon.svg",
+      "action": "supplyStatus"
+    },
+    {
+      "label": "Rail Info",
+      "icon": "assets/svg/icons/tallys/RailInfoIcon.svg",
+      "action": "tallyRailInfo"
+    },
+    {
+      "label": "Unload Info",
+      "icon": "assets/svg/icons/tallys/UnloadInfoIcon.svg",
+      "action": "tallyUnloadInfo"
+    },
+    {
+      "label": "Extra Data",
+      "icon": "assets/svg/icons/tallys/ExtraDataIcon.svg",
+      "action": "tallyExtraData"
+    },
+    {
+      "label": "Document History",
+      "icon": "assets/svg/icons/tallys/DocumentHistoryIcon.svg",
+      "action": "documentHistory"
+    },
+    {
+      "label": "Move History",
+      "icon": "assets/svg/icons/tallys/MoveHistoryIcon.svg",
+      "action": "tallysMoveHistory"
+    },
+    {
+      "label": "Metrics Inquiry",
+      "icon": "assets/svg/icons/tallys/MetricsInquiryIcon.svg",
+      "action": "metricsInquiry"
+    },
+    {
+      "label": "Outbound EDI",
+      "icon": "assets/svg/icons/tallys/OutboundEDIIcon.svg",
+      "action": "tallyOutboundEDI"
+    },
+    {
+      "label": "Inbound EDI",
+      "icon": "assets/svg/icons/tallys/InboundEDIIcon.svg",
+      "action": "tallyInboundEDI"
+    },
+    {
+      "label": "Tally Verification",
+      "icon": "assets/svg/icons/tallys/TallyVerificationIcon.svg",
+      "action": "tallyVerification"
+    },
+    {
+      "label": "X-Dock Inquiry",
+      "icon": "assets/svg/icons/tallys/XDockInquiryIcon.svg",
+      "action": "tallyCrossRefInquiry"
+    },
+    {
+      "label": "LP Staging Inquiry",
+      "icon": "assets/svg/icons/tallys/LPStagingInquiryIcon.svg",
+      "action": "tallyStagingInquiry"
+    },
+    {
+      "label": "Email Arrival",
+      "icon": "assets/svg/icons/tallys/EmailArrivalIcon.svg",
+      "action": "emailArrival"
+    },
+    {
+      "label": "Generate Special Charges",
+      "icon": "assets/svg/icons/tallys/GenerateSpecialChargesIcon.svg",
+      "action": "reCalcSPchg"
+    },
+    {
+      "label": "Recalculate Special Charges",
+      "icon": "assets/svg/icons/tallys/RecalculateSpecialChargesIcon.svg",
+      "action": "tallyReCalcSPchg"
+    },
+    {
+      "label": "Stage/Put",
+      "icon": "assets/svg/icons/tallys/stageorputtally.svg",
+      "action": "tallyStaging"
+    },
+    {
+      "label": "Add Dock Appt",
+      "icon": "assets/svg/icons/tallys/AddDockAppointmentIcon.svg",
+      "action": "tallyAddDockAppt"
+    },
+    {
+      "label": "Copy Tally",
+      "icon": "assets/svg/icons/tallys/CopyTallyIcon.svg",
+      "action": "CopyTally"
+    },
+    {
+      "label": "ReCalc Qty/Wgh",
+      "icon": "assets/svg/icons/tallys/RecalculateQtyWeightIcon.svg",
+      "action": "recalculate"
+    },
+    {
+      "label": "Upd Total",
+      "icon": "assets/svg/icons/tallys/UpdateTotalIcon.svg",
+      "action": "updTotal"
+    },
+    {
+      "label": "Hard Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "hardDelete"
+    },
+    {
+      "label": "PDF Receipt",
+      "icon": "assets/svg/icons/tallys/PDFReceiptIcon.svg",
+      "action": "pdfReceipt"
+    },
+    {
+      "label": "Back Out",
+      "icon": "assets/svg/icons/tallys/BackOutIcon.svg",
+      "action": "backOutNoChg"
+    },
+        {
+      "label": "Blind Tally",
+      "icon": "assets/svg/icons/tallys/blindtally.svg",
+      "action": "blindTally"
+    },
+    {
+      "label": "Print Tally Sr",
+      "icon": "assets/svg/icons/tallys/PrintTallySheetsIcon.svg",
+      "action": "printTally"
+    },
+    {
+      "label": "Release Plan",
+      "icon": "assets/svg/icons/tallys/ReleasePlanIcon.svg",
+      "action": "releasePlan"
+    },
+    {
+      "label": "Email O/S/D",
+      "icon": "assets/svg/icons/tallys/EmailOSDIcon.svg",
+      "action": "emailOSD"
+    },
+    {
+      "label": "Email Confirm",
+      "icon": "assets/svg/icons/tallys/EmailOSDIcon.svg",
+      "action": "emailConfirm"
+    },
+    {
+      "label": "Load To Labor",
+      "icon": "assets/svg/icons/tallys/labor.svg",
+      "action": "loadToLabor"
+    },
+    {
+      "label": "Dock Appointment",
+      "icon": "assets/svg/icons/tallys/AddDockAppointmentIcon.svg",
+      "action": "dockAppointment"
+    }
   ]
 }

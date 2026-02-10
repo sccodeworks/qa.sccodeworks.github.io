@@ -1,0 +1,17 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [    
+        {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateComment"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteComment"
+    }
+  ]
+}

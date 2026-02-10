@@ -1,0 +1,34 @@
+{
+  "header": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateDockRule"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteDockrules"
+    }
+  ],
+  "search": {
+    "placeholder": "Search Menu Options"
+  },
+  "items": [
+    {
+      "label": "Constraints",
+      "icon": "assets/svg/icons/dockRules/constraint.svg",
+      "action": "constraints"
+    },
+     {
+      "label": "Hold",
+      "icon": "assets/svg/icons/dockRules/hold.svg",
+      "action": "holdRule"
+    },
+    {
+      "label": "Release",
+      "icon": "assets/svg/icons/dockRules/move-or-release.svg",
+      "action": "releaseRule"
+    }    
+  ]
+}

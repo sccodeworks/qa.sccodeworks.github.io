@@ -1,0 +1,55 @@
+{
+  "header": [
+    {
+      "label": "Change",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "PaymentsChangeForm"
+    },
+        {
+      "label": "Comments",
+      "icon": "assets/svg/icons/Items/comments.svg",
+      "action": "PaymentsCommentsForm"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "PaymentsDeleteForm"
+    }
+  ],
+  "search": {
+    "placeholder": "Search payment actions"
+  },
+  "items": [
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/tallys/InquiryIcon.svg",
+      "action": "PaymentsInquiryForm"
+    },
+    {
+      "label": "Detail Inquiry",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "PaymentsDetailinquiryForm"
+    },
+    {
+      "label": "Print",
+      "icon": "assets/svg/icons/tallys/PrintTallySheetsIcon.svg",
+      "action": "PaymentsPrint"
+    },
+    {
+      "label": "Recalculate",
+      "icon": "assets/svg/icons/tallys/RecalculateQtyWeightIcon.svg",
+      "action": "PaymentsRecal"
+    },
+        {
+      "label": "Apply",
+      "icon": "assets/svg/icons/tallys/TallyPostingIcon.svg",
+      "action": "PaymentsApplyForm"
+    },
+
+    {
+      "label": "Apply Details",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "PaymentsApplydetails"
+    }
+  ]
+}

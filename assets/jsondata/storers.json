@@ -7,7 +7,7 @@
     },
     {
       "label": "Deactivate",
-      "icon": "assets/svg/dropdownicons/Deactivate.svg",
+      "icon": "assets/svg/icons/Items/DeactivateIcon.svg",
       "action": "storerDeactive"
     },
     {
@@ -18,7 +18,7 @@
   ],
 
   "search": {
-    "placeholder": "Search by Storer ID or Name"
+    "placeholder": "Search by Name"
   },
 
   "items": [
@@ -51,50 +51,50 @@
 
     {
       "label": "Generate Access Invoice",
-      "icon": "assets/svg/icons/invoice/gen-access.svg",
+      "icon": "assets/svg/icons/storer/gen-access.svg",
       "action": "storerGenAccessInv"
     },
     {
       "label": "Access Invoice Inquiry",
-      "icon": "assets/svg/icons/invoice/access-inquiry.svg",
+      "icon": "assets/svg/icons/storer/access-inquiry.svg",
       "action": "storerAccessInvoiceInquiry"
     },
     {
       "label": "Storage Invoice Inquiry",
-      "icon": "assets/svg/icons/invoice/storage-inquiry.svg",
+      "icon": "assets/svg/icons/storer/storage-inquiry.svg",
       "action": "storageInvoiceInquiry"
     },
 
     {
       "label": "AR Aging Inquiry",
-      "icon": "assets/svg/icons/inquiry/ar-aging.svg",
+      "icon": "assets/svg/icons/storer/ar-aging.svg",
       "action": "storerAragingInquiry"
     },
     {
       "label": "Statement",
-      "icon": "assets/svg/icons/inquiry/statement.svg",
+      "icon": "assets/svg/icons/storer/statement.svg",
       "action": "Statement"
     },
 
     {
       "label": "Rec Invoice Inquiry",
-      "icon": "assets/svg/icons/invoice/rec-inquiry.svg",
+      "icon": "assets/svg/icons/storer/rec-inquiry.svg",
       "action": "storerRecIvcInquiry"
     },
     {
       "label": "Generate Rec Summary IV",
-      "icon": "assets/svg/icons/invoice/rec-summary.svg",
+      "icon": "assets/svg/icons/storer/rec-summary.svg",
       "action": "storerGenRecSumIv"
     },
     {
       "label": "Create WO Invoice",
-      "icon": "assets/svg/icons/invoice/create-wo.svg",
+      "icon": "assets/svg/icons/storer/create-wo.svg",
       "action": "storerCreateWoInv"
     },
 
     {
       "label": "EDI Documents",
-      "icon": "assets/svg/icons/edi/edi-documents.svg",
+      "icon": "assets/svg/icons/storer/edi-documents.svg",
       "action": "storerEdiDocuments"
     },
     {
@@ -126,23 +126,23 @@
 
     {
       "label": "Daily Status",
-      "icon": "assets/svg/icons/status/daily-status.svg",
+      "icon": "assets/svg/icons/storer/daily-status.svg",
       "action": "storerDailyStatus"
     },
     {
       "label": "Storer Rate Bases",
-      "icon": "assets/svg/icons/rate/rate-basis.svg",
+      "icon": "assets/svg/icons/storer/rate-basis.svg",
       "action": "RateBasis"
     },
     {
       "label": "Change Rate",
-      "icon": "assets/svg/icons/rate/change-rate.svg",
+      "icon": "assets/svg/icons/storer/change-rate.svg",
       "action": "storerRateChange"
     },
 
     {
       "label": "Generate 869 Trigger",
-      "icon": "assets/svg/icons/edi/869-trigger.svg",
+      "icon": "assets/svg/icons/storer/869-trigger.svg",
       "action": "storerGen869Trigger"
     },
     {
@@ -153,7 +153,7 @@
 
     {
       "label": "Storer EDI Info",
-      "icon": "assets/svg/icons/edi/edi.svg",
+      "icon": "assets/svg/icons/storer/edi.svg",
       "action": "StorerEDIInfo"
     },
     {
@@ -174,7 +174,7 @@
     },
     {
       "label": "WW Accounting Attributes",
-      "icon": "assets/svg/icons/accounting/Accounting-attributes.svg",
+      "icon": "assets/svg/icons/storer/Accounting-attributes.svg",
       "action": "WwAccountingAttributes"
     },
     {
@@ -190,34 +190,34 @@
     },
     {
       "label": "Account Status",
-      "icon": "assets/svg/icons/account/status.svg",
+      "icon": "assets/svg/icons/storer/status.svg",
       "action": "storerStatus"
     },
 
     {
       "label": "Storer Comments",
-      "icon": "assets/svg/icons/common/comments.svg",
+      "icon": "assets/svg/icons/storer/comments.svg",
       "action": "storerComments"
     },
 
     {
       "label": "Generate Storage Invoice",
-      "icon": "assets/svg/icons/invoice/generate-storage.svg",
+      "icon": "assets/svg/icons/storer/generate-storage.svg",
       "action": "GenerateStorageInvoice"
     },
     {
       "label": "Post Storage Grace",
-      "icon": "assets/svg/icons/invoice/post-grace.svg",
+      "icon": "assets/svg/icons/storer/post-grace.svg",
       "action": "PostStorageGrace"
     },
     {
       "label": "Print Storage Grace",
-      "icon": "assets/svg/icons/invoice/print-grace.svg",
+      "icon": "assets/svg/icons/storer/print-grace.svg",
       "action": "PrintStorageGrace"
     },
     {
       "label": "Inquire Storage Grace",
-      "icon": "assets/svg/icons/inquiry/storage-grace.svg",
+      "icon": "assets/svg/icons/storer/storage-grace.svg",
       "action": "InquireStorageGrace"
     },
 
@@ -233,13 +233,13 @@
     },
     {
       "label": "Storer Auto Rate",
-      "icon": "assets/svg/icons/rate/auto-rate.svg",
+      "icon": "assets/svg/icons/storer/auto-rate.svg",
       "action": "storerAutoRate"
     },
 
     {
       "label": "Daily Storage Inquiry",
-      "icon": "assets/svg/icons/inquiry/daily-storage.svg",
+      "icon": "assets/svg/icons/storer/daily-storage.svg",
       "action": "DailyStorageInquiry"
     },
     {

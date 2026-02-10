@@ -22,7 +22,7 @@
   "items": [
     {
       "label": "Constraint",
-      "icon": "assets/svg/icons/tallys/AddDockAppointmentIcon.svg",
+      "icon": "assets/svg/icons/taskCodes/constraint.svg",
       "action": "taskCodesConstraintForm"
     },
     {
@@ -32,7 +32,7 @@
     },
       {
       "label": "Activate",
-            "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
+      "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
       "action": "taskcodesActivate"
     },
       {
@@ -41,7 +41,7 @@
       "action": "taskCodesDeactivate"
     },  {
       "label": "Attributes",
-      "icon": "assets/svg/sidebar-menu-icons/AccountAttributes.svg",
+      "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
       "action": "taskCodesAttributesForm"
     }
     
