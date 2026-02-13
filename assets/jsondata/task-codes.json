@@ -30,20 +30,20 @@
       "icon": "assets/svg/dropdownicons/copy.svg",
       "action": "taskCodesCopyTaskSetForm"
     },
-      {
+    {
       "label": "Activate",
       "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
       "action": "taskcodesActivate"
     },
-      {
+    {
       "label": "Deactivate",
-            "icon": "assets/svg/icons/Items/DeactivateIcon.svg",
+      "icon": "assets/svg/icons/Items/DeactivateIcon.svg",
       "action": "taskCodesDeactivate"
-    },  {
+    },
+    {
       "label": "Attributes",
       "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
       "action": "taskCodesAttributesForm"
     }
-    
   ]
 }

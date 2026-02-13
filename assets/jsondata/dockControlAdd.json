@@ -1,12 +1,10 @@
 {
-  "search": {
-    "placeholder": "Search by Operator / Equipment"
-  },
+ 
   "items": [
     {
-      "label": "Details",
-      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
-      "action": "AddDockSchedulerControlsComponent"
+      "label": "Add",
+      "icon": "assets/svg/icons/storer/short-stock.svg",
+      "action": "addChoice"
     }
   
   ]

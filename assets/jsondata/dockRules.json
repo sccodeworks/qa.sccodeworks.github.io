@@ -17,7 +17,7 @@
   "items": [
     {
       "label": "Constraints",
-      "icon": "assets/svg/icons/dockRules/constraint.svg",
+      "icon": "assets/svg/icons/taskCodes/constraint.svg",
       "action": "constraints"
     },
      {

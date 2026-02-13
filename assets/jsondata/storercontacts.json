@@ -1,0 +1,18 @@
+{
+  "search": {
+    "placeholder": "Search by Contacts"
+  },
+  "items": [
+    {
+      "label": "Storer Contact Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "storerConatactUpdate"
+    },
+     {
+      "label": "Storer Contact Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "storerConatactDelete"
+    }
+  
+  ]
+}

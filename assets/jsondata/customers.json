@@ -6,11 +6,6 @@
       "action": "customersUpdate"
     },
     {
-      "label": "Consolidate",
-      "icon": "assets/svg/dropdownicons/delete.svg",
-      "action": "wCustomersConsolidate"
-    },
-    {
       "label": "Inquiry",
       "icon": "assets/svg/icons/tallys/WRInquiryIcon.svg",
       "action": "inquiry"
@@ -20,6 +15,11 @@
     "placeholder": "Search by Customer No or Name"
   },
   "items": [
+        {
+      "label": "Consolidate",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "wCustomersConsolidate"
+    },
     {
       "label": "Account Attributes",
       "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",

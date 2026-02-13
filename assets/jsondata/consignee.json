@@ -1,0 +1,30 @@
+{
+  "header": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "consigneeUpdateForm"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "consigneeDeleteForm"
+    }
+  ],
+  "search": {
+    "placeholder": "Search Menu Options"
+  },
+  "items": [
+    {
+      "label": "Comments",
+      "icon": "assets/svg/icons/Items/comments.svg",
+      "action": "consigneeComments"
+    },
+     {
+      "label": "X-Reference",
+      "icon": "assets/svg/icons/storer/xref.svg",
+      "action": "consigneeXRefForm"
+    }
+
+  ]
+}
