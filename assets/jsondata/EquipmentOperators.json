@@ -1,0 +1,18 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "changeEquipmentOperators"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteEquipmentOperators"
+    }
+ 
+  ]
+}

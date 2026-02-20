@@ -1,0 +1,22 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+{
+      "label": "Comments",
+      "icon": "assets/svg/icons/Items/comments.svg",
+      "action": "comments"
+    },
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateAssetService"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteAssetService"
+    }
+  ]
+}

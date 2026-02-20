@@ -27,7 +27,7 @@
     },
     {
       "label": "Transactions",
-      "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
+      "icon": "assets/svg/icons/Transactions.svg",
       "action": "ledgerCodesTransactions"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "label": "Revenue Report",
-      "icon": "assets/svg/sidebar-menu-icons/SuppliesReport.svg",
+      "icon": "assets/svg/icons/receivables/AdjustInquiry.svg",
       "action": "ledgerCodeRevenue"
     }
     

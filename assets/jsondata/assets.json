@@ -1,0 +1,24 @@
+{
+  "header": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateAsset"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteAsset"
+    },
+       {
+      "label": "Comments",
+      "icon": "assets/svg/icons/Items/comments.svg",
+      "action": "AssetComments"
+    }
+  ],
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+  ]
+}

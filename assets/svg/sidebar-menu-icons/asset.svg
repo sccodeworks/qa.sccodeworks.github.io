@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Warehouse Building -->
+  <path d="M3 10L12 4L21 10V20H3V10Z" stroke="#84919A" stroke-width="1.8" stroke-linejoin="round"/>
+  
+  <!-- Door -->
+  <rect x="9" y="14" width="6" height="6" stroke="#84919A" stroke-width="1.5"/>
+  
+  <!-- Boxes -->
+  <rect x="6" y="12" width="3" height="3" fill="#84919A"/>
+  <rect x="15" y="12" width="3" height="3" fill="#84919A"/>
+</svg>

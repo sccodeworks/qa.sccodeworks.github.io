@@ -1,0 +1,32 @@
+{
+  "search": {
+    "placeholder": "Search Actions"
+  },
+  "items": [
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "mapLocationUpdate"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "mapLocationDelete"
+    },
+    {
+      "label": "X-Reference",
+      "icon": "assets/svg/icons/tallys/XDockInquiryIcon.svg",
+      "action": "XReference"
+    },
+    {
+      "label": "Location Status Inquiry",
+      "icon": "assets/svg/icons/tallys/InquiryIcon.svg",
+      "action": "locationStatusInquiry"
+    }, 
+    {
+      "label": "Activity",
+      "icon": "assets/svg/icons/tallys/MetricsInquiryIcon.svg",
+      "action": "Activity"
+    }
+  ]
+}

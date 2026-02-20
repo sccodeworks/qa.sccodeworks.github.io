@@ -1,0 +1,63 @@
+{
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "moveQueueDelete"
+    },
+        {
+      "label": "Stock Inquiry",
+      "icon": "assets/svg/icons/tallys/SupplyStatusIcon.svg",
+      "action": "sendToItemLocations"
+    },
+    {
+      "label": "Redirect One",
+      "icon": "assets/svg/icons/receivables/ReCalculateBalance.svg",
+      "action": "redirectForm1"
+    },
+    {
+      "label": "Move Completion",
+      "icon": "assets/svg/icons/orders/MoveQueue.svg",
+      "action": "moveQueueComplete"
+    },
+    {
+      "label": "Move Entry Assign",
+      "icon": "assets/svg/icons/orders/BillToadd.svg",
+      "action": "moveQueueEntryAssign"
+    },
+    {
+      "label": "De-Assignment",
+      "icon": "assets/svg/icons/tallys/DeReceiveIcon.svg",
+      "action": "deAssignment"
+    },
+    {
+      "label": "Move Entry Inquiry",
+      "icon": "assets/svg/icons/orders/MetricsInquiry.svg",
+      "action": "moveQueueEntryInquiry"
+    },
+
+    {
+      "label": "Change Staging Location",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "moveChangeStagingLocation"
+    },
+    {
+      "label": "Move Queue No Pick",
+      "icon": "assets/svg/icons/orders/MoveQueue.svg",
+      "action": "moveQueueNoPick"
+    },
+    {
+      "label": "Change Queue Priority",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "changeMovePriority"
+    },
+    {
+      "label": "Resolve Move Problem",
+      "icon": "assets/svg/icons/orders/VerifyOrders.svg",
+      "action": "resolveMoveProblem"
+    }
+  ]
+}

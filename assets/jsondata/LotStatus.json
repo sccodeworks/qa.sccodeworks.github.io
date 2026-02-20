@@ -1,0 +1,17 @@
+{  
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "changeLotStatus"
+    },
+    {
+      "label": "Inquiry",
+       "icon": "assets/svg/icons/receivables/AdjustInquiry.svg",
+      "action": "inquiryLotStatus"
+    }
+  ]
+}

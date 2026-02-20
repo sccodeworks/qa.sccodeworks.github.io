@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="60" height="60" rx="10" fill="#F0FBFF"/>
+
+  <!-- Warehouse Icon -->
+  <g fill="#00A9DF">
+    
+    <!-- Roof -->
+    <path d="M12 26 L30 14 L48 26 V28 H12 Z"/>
+
+    <!-- Building Body -->
+    <rect x="15" y="26" width="30" height="18" rx="2"/>
+
+    <!-- Door -->
+    <rect x="26" y="32" width="8" height="12" fill="#F0FBFF"/>
+
+    <!-- Windows -->
+    <rect x="18" y="30" width="4" height="4" rx="1" fill="#F0FBFF"/>
+    <rect x="38" y="30" width="4" height="4" rx="1" fill="#F0FBFF"/>
+
+  </g>
+
+</svg>
