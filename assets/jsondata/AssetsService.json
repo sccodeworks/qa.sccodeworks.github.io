@@ -17,6 +17,32 @@
       "label": "Delete",
       "icon": "assets/svg/dropdownicons/delete.svg",
       "action": "deleteAssetService"
-    }
+    },
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
+      "action": "InquiryAssetsService"
+    },
+    {
+      "label": "Submit",
+      "icon": "assets/svg/icons/Assets/aseetsubmit.svg",
+      "action": "SubmitAssetsService"
+    },
+    {
+      "label": "Approve",
+      "icon": "assets/svg/icons/Assets/assetapproval.svg",
+      "action": "ApproveAssetService"
+    },
+
+    {
+      "label": "Deny",
+      "icon": "assets/svg/icons/Assets/deny.svg",
+      "action": "DenyAssetsService"
+    },
+     {
+      "label": "Completed",
+      "icon": "assets/svg/icons/Assets/complete.svg",
+      "action": "CompleteAssetsService"
+    }    
   ]
 }

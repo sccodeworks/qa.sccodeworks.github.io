@@ -1,0 +1,19 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Contract Document -->
+  <rect x="4" y="3" width="10" height="12" rx="1.8"
+        stroke="#252C32"
+        stroke-width="1.2"/>
+
+  <!-- Vendor Building Top -->
+  <path d="M6 6V5H12V6" 
+        stroke="#252C32"
+        stroke-width="1.2"
+        stroke-linecap="round"/>
+
+  <!-- Agreement Line -->
+  <path d="M6.5 10H11.5
+           M6.5 12H10"
+        stroke="#252C32"
+        stroke-width="1.2"
+        stroke-linecap="round"/>
+</svg>
