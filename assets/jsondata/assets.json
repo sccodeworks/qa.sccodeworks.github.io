@@ -20,5 +20,25 @@
     "placeholder": "Search menu options"
   },
   "items": [
+    {
+      "label": "Asset Events",
+      "icon": "assets/svg/icons/Assets/assetEvents.svg",
+      "action": "AssetEvent"
+    },
+    {
+      "label": "Assets Check-in",
+      "icon": "assets/svg/icons/Assets/checkin.svg",
+      "action": "AssetCheckiIn"
+    },
+     {
+      "label": "Assets CheckOut",
+      "icon": "assets/svg/icons/Assets/checkout.svg",
+      "action": "AssetCheckOut"
+    },
+    {
+      "label": "Assets Service",
+      "icon": "assets/svg/icons/Assets/Assetservice.svg",
+      "action": "AssetService"
+    }
   ]
 }
