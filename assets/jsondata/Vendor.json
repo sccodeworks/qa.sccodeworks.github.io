@@ -1,0 +1,17 @@
+{  
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "changeVendor"
+    },
+    {
+      "label": "Vendor Contract",
+      "icon": "assets/svg/icons/Assets/vendorcontract.svg",
+      "action": "VendorContract"
+    }
+  ]
+}

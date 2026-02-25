@@ -28,7 +28,7 @@
     {
       "label": "Assets Check-in",
       "icon": "assets/svg/icons/Assets/checkin.svg",
-      "action": "AssetCheckiIn"
+      "action": "AssetCheckIn"
     },
      {
       "label": "Assets CheckOut",
@@ -39,6 +39,16 @@
       "label": "Assets Service",
       "icon": "assets/svg/icons/Assets/Assetservice.svg",
       "action": "AssetService"
-    }
+    },
+      {
+        "label": "Assets Decommission",
+        "icon": "assets/svg/icons/Assets/decomission.svg",
+        "action": "AssetDecommission"
+      },
+      {
+        "label": "Assets Recommission",
+        "icon": "assets/svg/icons/Assets/recomission.svg",
+        "action": "AssetRecommission"
+      }
   ]
 }

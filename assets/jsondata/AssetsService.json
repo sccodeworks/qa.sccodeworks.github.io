@@ -14,9 +14,9 @@
       "action": "updateAssetService"
     },
     {
-      "label": "Delete",
+      "label": "Cancel",
       "icon": "assets/svg/dropdownicons/delete.svg",
-      "action": "deleteAssetService"
+      "action": "CancelAssetService"
     },
     {
       "label": "Inquiry",
