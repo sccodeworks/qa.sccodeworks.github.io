@@ -1,0 +1,22 @@
+{
+  "search": {
+    "placeholder": "Search Actions"
+  },
+  "items": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateForm"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteForm"
+    },
+    {
+      "label": "Doors",
+      "icon": "assets/svg/sidebar-menu-icons/Doors.svg",
+      "action": "doorForm"
+    }
+  ]
+}
