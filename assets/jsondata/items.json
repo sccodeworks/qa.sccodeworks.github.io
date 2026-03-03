@@ -38,11 +38,6 @@
             "action": "BucketXfer"
         },
         {
-            "label": "Transfer Stock",
-            "icon": "assets/svg/icons/Items/TransferStock.svg",
-            "action": "TransferStock"
-        },
-        {
             "label": "Deactivate",
             "icon": "assets/svg/icons/Items/DeactivateIcon.svg",
             "action": "Deactivate"
@@ -212,11 +207,6 @@
             "label": "Kit Pick Sheet",
             "icon": "assets/svg/icons/Items/KitPickSheetIcon.svg",
             "action": "KitPickSheet"
-        },
-        {
-            "label": "HazMat Information",
-            "icon": "assets/svg/icons/Items/HazMatInformationIcon.svg",
-            "action": "HazmatGroup"
         },
         {
             "label": "Email Low Stock",

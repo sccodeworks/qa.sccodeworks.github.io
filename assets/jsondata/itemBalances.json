@@ -1,0 +1,31 @@
+{
+  "header": [
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "itemBalanceDelete"
+    },
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/Items/ItemStatusInquiry.svg",
+      "action": "itemBalanceInquiry"
+    }
+  ],
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    
+    {
+      "label": "Staging Inquiry",
+      "icon": "assets/svg/icons/Items/ItemStockActivity.svg",
+      "action": "itemBalanceStgInquiry"
+    },
+    {
+      "label": "Recreate Balance",
+      "icon": "assets/svg/icons/Items/Balance.svg",
+      "action": "recreateItemBalance"
+    }
+    
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "header": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateKit"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteKit"
+    }
+  ],
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Lot Status",
+      "icon": "assets/svg/icons/Items/LotStatusIcon.svg",
+      "action": "lotStatus"
+    },
+    {
+      "label": "Stock Activity",
+      "icon": "assets/svg/icons/Items/ItemStockActivity.svg",
+      "action": "stockActivity"
+    },
+    {
+      "label": "Item Orders",
+      "icon": "assets/svg/icons/Items/ItemOrdersIcon.svg",
+      "action": "itemOrders"
+    },
+    {
+      "label": "Item Location",
+      "icon": "assets/svg/icons/Items/MaintainWarehouseOpsIcon.svg",
+      "action": "itemLocation"
+    },
+    {
+      "label": "Item Balance",
+      "icon": "assets/svg/icons/Items/Balance.svg",
+      "action": "itemBalance"
+    },
+    {
+      "label": "Rebalance",
+      "icon": "assets/svg/icons/Items/MaintainWarehouseOpsIcon.svg",
+      "action": "rebalance"
+    },
+    {
+      "label": "kit Components",
+      "icon": "assets/svg/icons/Items/KitPickInquiryIcon.svg",
+      "action": "kitComponents"
+    },
+    {
+      "label": "kit Pick Inquiry",
+      "icon": "assets/svg/icons/Items/ItemStatusInquiry.svg",
+      "action": "kitPickInquiry"
+    },
+    {
+      "label": "kit Pick Sheet",
+      "icon": "assets/svg/icons/Items/MaintainWarehouseOpsIcon.svg",
+      "action": "kiPickSheet"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
 {
       "label": "Comments",
       "icon": "assets/svg/icons/Items/comments.svg",
-      "action": "comments"
+      "action": "AssetServiceComments"
     },
     {
       "label": "Update",

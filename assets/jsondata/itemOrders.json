@@ -1,0 +1,18 @@
+{
+  "header": [],
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Bill Synopsis",
+      "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
+      "action": "itemOrderInquiry"
+    },
+     {
+      "label": "W/W Order",
+      "icon": "assets/svg/icons/Items/ItemOrdersIcon.svg",
+      "action": "jumpToOrder"
+    }
+  ]
+}

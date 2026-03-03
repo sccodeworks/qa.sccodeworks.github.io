@@ -1,0 +1,18 @@
+{
+  "header": [],
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Stock Activity Print",
+      "icon": "assets/svg/icons/orders/PrintBillOfLading.svg",
+      "action": "stockActivityPrint"
+    },
+    {
+      "label": "Stock Activity Email",
+      "icon": "assets/svg/icons/orders/EmailNewOrder.svg",
+      "action": "stockActivityEmail"
+    }
+  ]
+}
