@@ -1,0 +1,17 @@
+{
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/tallys/WRInquiryIcon.svg",
+      "action": "ItemAdjustmentInquiry"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "itemAdjustmentDelete"
+    }
+  ]
+}

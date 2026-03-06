@@ -1,0 +1,22 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },  
+  "items": [
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateMemorizedInvoices"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteMemorizedInvoices"
+    },
+    {
+      "label": "Generate Memo Invoice",
+      "icon": "assets/svg/icons/generate.svg",
+      "action": "generateMemorizedInvoices"
+    }
+  ]
+}

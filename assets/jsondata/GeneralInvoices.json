@@ -1,0 +1,45 @@
+{
+    "header": [ 
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "invoiceUpdate"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "invoiceDelete"
+    },
+      {
+      "label": "Memorize",
+      "icon": "assets/svg/icons/memorize.svg",
+      "action": "invoiceMemorize"
+    }
+  ],
+  "search": {
+    "placeholder": "Search actions"
+  },  
+  "items": [   
+    {
+      "label": "Details",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "invoiceDetails"
+    },
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/tallys/LPStagingInquiryIcon.svg",
+      "action": "inquiry"
+    },
+  
+    {
+      "label": "Post & Print",
+      "icon": "assets/svg/icons/tallys/PrintTallySheetsIcon.svg",
+      "action": "genInvPostPrint"
+    },
+    {
+      "label": "Print",
+      "icon": "assets/svg/icons/tallys/PrintTallySheetsIcon.svg",
+      "action": "genInvPrint"
+    }    
+  ]
+}

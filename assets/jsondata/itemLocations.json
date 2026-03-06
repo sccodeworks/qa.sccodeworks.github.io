@@ -1,0 +1,87 @@
+{
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/Items/ItemStatusInquiry.svg",
+      "action": "itemLocationsInquiry"
+    },
+    {
+      "label": "Floor Move",
+      "icon": "assets/svg/icons/Items/floorMove.svg",
+      "action": "itemLocFloorMove"
+    },
+    {
+      "label": "Transfer Stock",
+      "icon": "assets/svg/icons/Items/transferStock.svg",
+      "action": "transferStock"
+    },
+    {
+      "label": "Item Activity",
+      "icon": "assets/svg/icons/Items/itemActivity.svg",
+      "action": "itemActivity"
+    },
+    {
+      "label": "1 to Many Adj",
+      "icon": "assets/svg/icons/Items/1toManyAdj.svg",
+      "action": "oneToManyAdj"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "itemLocationDelete"
+    },
+    {
+      "label": "One Side Adjustment",
+      "icon": "assets/svg/icons/Items/oneSideAdjIcon.svg",
+      "action": "oneSideAdj"
+    },
+    {
+      "label": "Two Side Adjustment",
+      "icon": "assets/svg/icons/Items/twoSideAjustment.svg",
+      "action": "twoSideAdj"
+    },
+    {
+      "label": "2 Side Adj Bucket to Bucket",
+      "icon": "assets/svg/icons/Items/BucketToBucket.svg",
+      "action": "bucketToBucket"
+    },
+    {
+      "label": "Update Lot Weight",
+      "icon": "assets/svg/icons/Items/MaintainWeightsIcon.svg",
+      "action": "UpdateLotWeight"
+    },
+    {
+      "label": "Verify",
+      "icon": "assets/svg/icons/Items/Verify.svg",
+      "action": "Verify"
+    },
+    {
+      "label": "No Question Delete",
+      "icon": "assets/svg/icons/Items/noQnDelete.svg",
+      "action": "NoQuestionDelete"
+    },
+    {
+      "label": "1 Sided Adjustment Override",
+      "icon": "assets/svg/icons/Items/oneSideAdjOverride.svg",
+      "action": "AdjustmentOverride"
+    },
+    {
+      "label": "2 Sided Adjustment Override",
+      "icon": "assets/svg/icons/Items/twoSideAdjOverride.svg",
+      "action": "TwoAdjustmentOverride"
+    },
+    {
+      "label": "Set Pick Line",
+      "icon": "assets/svg/icons/Items/setPickLine.svg",
+      "action": "setPickLine"
+    },
+    {
+      "label": "Resequence",
+      "icon": "assets/svg/icons/Items/resequence.svg",
+      "action": "itemResequence"
+    }
+  ]
+}

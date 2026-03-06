@@ -1,0 +1,34 @@
+{
+  "header": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "DockScheduleUpdateForm"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "DockScheduleDeleteForm"
+    },
+    {
+      "label": "Synopsis",
+      "icon": "assets/svg/icons/tallys/MoveHistoryIcon.svg",
+      "action": "DockScheduleSynopsisForm"
+    }
+  ],
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Doc Info",
+      "icon": "assets/svg/icons/tallys/DocumentHistoryIcon.svg",
+      "action": "DockScheduleInfoForm"
+    },
+    {
+      "label": "Mark Hot",
+      "icon": "assets/svg/icons/Assets/consolidate.svg",
+      "action": "DockScheduleMarkHotForm"
+    }
+  ]
+}

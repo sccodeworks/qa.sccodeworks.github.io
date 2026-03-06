@@ -1,0 +1,18 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "Delete"
+    },
+    {
+      "label": "MB Comments",
+      "icon": "assets/svg/icons/Items/comments.svg",
+      "action": "MbComments"
+    }
+
+  ]
+}

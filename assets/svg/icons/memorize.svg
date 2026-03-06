@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="18"
+     height="18"
+     viewBox="0 0 18 18"
+     fill="none">
+
+  <!-- invoice/document -->
+  <rect x="3"
+        y="3"
+        width="12"
+        height="12"
+        rx="2"
+        stroke="#252C32"
+        stroke-width="1.2"/>
+
+  <!-- bookmark (memorize symbol) -->
+  <path d="M7 5H11V11L9 9.5L7 11V5Z"
+        stroke="#252C32"
+        stroke-width="1.2"
+        stroke-linejoin="round"/>
+
+</svg>

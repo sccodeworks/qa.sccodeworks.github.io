@@ -1,27 +1,28 @@
 <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-<!-- Left stock box -->
-<rect x="2.5" y="6" width="4" height="6" rx="1"
+<!-- Slider line 1 -->
+<path d="M3 5H15"
 stroke="#364153" stroke-width="1.2"
 stroke-linecap="round" stroke-linejoin="round"/>
 
-<!-- Right stock box -->
-<rect x="11.5" y="6" width="4" height="6" rx="1"
+<circle cx="7" cy="5" r="1"
+stroke="#364153" stroke-width="1.2"/>
+
+<!-- Slider line 2 -->
+<path d="M3 9H15"
 stroke="#364153" stroke-width="1.2"
 stroke-linecap="round" stroke-linejoin="round"/>
 
-<!-- Transfer line -->
-<path d="M6.5 9H11.5"
+<circle cx="11" cy="9" r="1"
+stroke="#364153" stroke-width="1.2"/>
+
+<!-- Override arrow line (same length as others) -->
+<path d="M3 13H15"
 stroke="#364153" stroke-width="1.2"
 stroke-linecap="round" stroke-linejoin="round"/>
 
-<!-- Right arrow -->
-<path d="M9.8 7.5L11.5 9L9.8 10.5"
-stroke="#364153" stroke-width="1.2"
-stroke-linecap="round" stroke-linejoin="round"/>
-
-<!-- Left arrow -->
-<path d="M8.2 7.5L6.5 9L8.2 10.5"
+<!-- Arrow head -->
+<path d="M13 11L15 13L13 15"
 stroke="#364153" stroke-width="1.2"
 stroke-linecap="round" stroke-linejoin="round"/>
 

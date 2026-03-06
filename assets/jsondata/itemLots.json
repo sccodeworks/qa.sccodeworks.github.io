@@ -1,0 +1,35 @@
+{
+
+   "header": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateItemLots"
+    },
+    {
+      "label": " Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteItemLot"
+    }
+  ],
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Lot Activity",
+      "icon": "assets/svg/icons/Items/itemActivity.svg",
+      "action": "lotActivity"
+    },
+    {
+      "label": "Set Last Used",
+      "icon": "assets/svg/icons/Items/SetLastUsed.svg",
+      "action": "setLastUsed"
+    },
+    {
+      "label": "BucketXRefUpdate",
+      "icon": "assets/svg/icons/Items/BucketToBucket.svg",
+      "action": "BucketXRefUpdate"
+    }
+  ]
+}

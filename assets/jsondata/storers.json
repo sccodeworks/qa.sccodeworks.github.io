@@ -172,16 +172,6 @@
       "icon": "assets/svg/icons/storer/balance-error.svg",
       "action": "BalanceErrors"
     },
-    {
-      "label": "WW Accounting Attributes",
-      "icon": "assets/svg/icons/storer/Accounting-attributes.svg",
-      "action": "WwAccountingAttributes"
-    },
-    {
-      "label": "Storer Attributes",
-      "icon": "assets/svg/icons/storer/attributes.svg",
-      "action": "storerAttributes"
-    },
 
     {
       "label": "Storer X Reference",
@@ -246,11 +236,6 @@
       "label": "Storer Putaway Scheme",
       "icon": "assets/svg/icons/storer/putaway.svg",
       "action": "storerPutawayScheme"
-    },
-    {
-      "label": "Storer Short Stock",
-      "icon": "assets/svg/icons/storer/short-stock.svg",
-      "action": "storerShortStock"
     }
   ]
 }
