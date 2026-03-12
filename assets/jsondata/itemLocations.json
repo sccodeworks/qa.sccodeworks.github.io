@@ -15,7 +15,7 @@
     },
     {
       "label": "Transfer Stock",
-      "icon": "assets/svg/icons/Items/transferStock.svg",
+      "icon": "assets/svg/icons/Items/TransferStock.svg",
       "action": "transferStock"
     },
     {

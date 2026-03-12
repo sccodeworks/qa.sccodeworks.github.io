@@ -234,6 +234,11 @@
       "label": "Dock Appointment",
       "icon": "assets/svg/icons/tallys/AddDockAppointmentIcon.svg",
       "action": "dockAppointment"
+    },
+        {
+      "label": "Write Errors",
+      "icon": "assets/svg/icons/tallys/TallyPostingErrorsIcon.svg",
+      "action": "writeErrors"
     }
   ]
 }

@@ -306,6 +306,7 @@
             "action": "DepickSerial"
         },
         {
+        
             "label": "Delete From MoveQ",
             "icon": "assets/svg/icons/orders/DeleteFromMoveQ.svg",
             "action": "DeleteFromMoveQ"
@@ -609,6 +610,16 @@
             "label": "Email Cancel",
             "icon": "assets/svg/icons/orders/EmailEntry.svg",
             "action": "EmailCancel"
+        },
+         {
+            "label": "UCC Pallet",
+            "icon": "assets/svg/icons/orders/WWUCC128.svg",
+            "action": "UCCPallet"
+        },
+         {
+            "label": "DepickSerial",
+      "icon": "assets/svg/icons/orders/BillOfLoadingSynopsis.svg",
+            "action": "DepickSerial"
         }
     ]
 }

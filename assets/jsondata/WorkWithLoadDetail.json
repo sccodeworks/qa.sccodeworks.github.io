@@ -1,0 +1,12 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+    {
+      "label": "Bill Synopsis",
+      "icon": "assets/svg/icons/receivables/AdjustInquiry.svg",
+      "action": "BillSynopsis"
+    }
+  ]
+}

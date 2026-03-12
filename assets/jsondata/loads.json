@@ -12,7 +12,11 @@
       "label": "MB Comments",
       "icon": "assets/svg/icons/Items/comments.svg",
       "action": "MbComments"
+    },
+    {
+      "label": "Load Details",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "LoadDetail"
     }
-
   ]
 }

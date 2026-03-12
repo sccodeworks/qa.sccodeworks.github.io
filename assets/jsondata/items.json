@@ -218,5 +218,16 @@
             "icon": "assets/svg/icons/Items/DeleteShelfLifeIcon.svg",
             "action": "deleteShelfLife"
         }
+        ,  { 
+             "label": "HazMat Information",
+             "icon": "assets/svg/icons/Items/HazMatInformationIcon.svg",
+              "action": "HazmatGroup"
+    },
+    {
+              "label": "Transfer Stock",
+              "icon": "assets/svg/icons/Items/TransferStock.svg",
+              "action": "TransferStock"
+          }
+
     ]
 }
