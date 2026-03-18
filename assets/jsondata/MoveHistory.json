@@ -1,0 +1,13 @@
+{
+  "search": {
+    "placeholder": "Search by options"
+  },
+  "items": [
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/receivables/InvoiceInquiry.svg",
+      "action": "Inquiry"
+    }
+   
+  ]
+}

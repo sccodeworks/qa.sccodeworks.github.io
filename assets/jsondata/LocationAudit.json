@@ -1,0 +1,28 @@
+{
+  "header": [],
+  "search": {
+    "placeholder": "Search menu options"
+  },
+  "items": [
+    {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/ww-dock-scheduler/InquiryIcon.svg",
+      "action": "Inquiry"
+    },
+    {
+      "label": "Print Sheet",
+      "icon": "assets/svg/icons/tallys/PrintTallySheetsIcon.svg",
+      "action": "PrintSheet"
+    },
+    {
+      "label": "Mark as Process",
+      "icon": "assets/svg/icons/orders/VerifyHeader.svg",
+      "action": "Markasprocess"
+    },
+    {
+      "label": "Load to MQ",
+      "icon": "assets/svg/icons/orders/RunMQPost.svg",
+      "action": "loadToMoveQueue"
+    }
+  ]
+}

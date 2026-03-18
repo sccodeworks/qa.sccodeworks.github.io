@@ -17,6 +17,16 @@
       "label": "Load Details",
       "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
       "action": "LoadDetail"
+    },
+     {
+      "label": "Load Manifest",
+      "icon": "assets/svg/icons/Loads/Manifest.svg",
+      "action": "LoadManifest"
+    },
+    {
+      "label": "Drop",
+      "icon": "assets/svg/icons/Loads/drop.svg",
+      "action": "Drop"
     }
   ]
 }

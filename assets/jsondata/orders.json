@@ -417,7 +417,7 @@
             "action": "ShipConfig"
         },
         {
-            "label": "Pick History",
+            "label": "Real Time History",
             "icon": "assets/svg/icons/orders/PickHistory.svg",
             "action": "RealTimeHist"
         },

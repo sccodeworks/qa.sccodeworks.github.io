@@ -1,0 +1,9 @@
+{
+  "items": [
+    {
+      "label": "Select",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "selectStock"
+    }
+  ]
+}
