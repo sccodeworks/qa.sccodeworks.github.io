@@ -12,10 +12,6 @@
       "label": "Delete",
       "icon": "assets/svg/dropdownicons/delete.svg",
       "action": "Delete"
-    },
-    {
-      "label": "Change Set",
-      "icon": "assets/svg/dropdownicons/edit.svg",
-      "action": "MbComments"
-    }  ]
+    }
+  ]
 }

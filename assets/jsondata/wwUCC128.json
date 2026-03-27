@@ -12,7 +12,7 @@
     {
       "label": "Print Ucc128",
       "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
-      "action": "SupplytraPrintUcc128nsactionsInquiryForm"
+      "action": "PrintUcc128"
     }
   ]
 }

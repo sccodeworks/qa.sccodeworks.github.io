@@ -1,0 +1,12 @@
+{
+  "search": {
+    "placeholder": "Search by action"
+  },
+  "items": [
+    {
+      "label": "Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "update"
+    }
+  ]
+}

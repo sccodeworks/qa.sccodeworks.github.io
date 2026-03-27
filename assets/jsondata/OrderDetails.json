@@ -1,0 +1,132 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+    {
+      "label": "Order-Detail-Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "orderDetailEdit"
+    },
+    {
+      "label": "Stock-Status",
+      "icon": "assets/svg/icons/tallys/SupplyStatusIcon.svg",
+      "action": "orderDetailStackStatus"
+    },
+    {
+      "label": "Order-Item-Status",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "orderDetailItemStatus"
+    },
+    {
+      "label": "Commit",
+      "icon": "assets/svg/dropdownicons/commit.svg",
+      "action": "orderDetailsCommit"
+    },
+    {
+      "label": "De-Commit",
+       "icon": "assets/svg/dropdownicons/decommit.svg",
+      "action": "orderDetailsDeCommit"
+    },
+    {
+      "label": "Non-Stock Reason",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "orderDetailsNonStockReas"
+    },
+    {
+      "label": "Stock-Activity",
+      "icon": "assets/svg/icons/tallys/MoveHistoryIcon.svg",
+      "action": "orderDtlStockActivity"
+    },
+    {
+      "label": "Order-Change-Ship-From",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "orderDetailChnageShipFrom"
+    },
+    {
+      "label": "Order-Detail-Split-Line",
+      "icon": "assets/svg/dropdownicons/copy.svg",
+      "action": "orderDetailSplitLine"
+    },
+    {
+      "label": "Order-Cross-Doc-Ref",
+      "icon": "assets/svg/icons/Items/comments.svg",
+      "action": "orderDetailCrossDocRef"
+    },
+    {
+      "label": "Order-Detail-Comments",
+      "icon": "assets/svg/icons/Items/comments.svg",
+      "action": "orderDetailComments"
+    },
+    {
+      "label": "Order-Detail-Cut",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "orderDetailCut"
+    },
+    {
+      "label": "Change-Event/ Change-Event-Comments",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "changeEvent"
+    },
+    {
+      "label": "Change-Location/Lot",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "orderChangeLocLot"
+    },
+    {
+      "label": "Lot-Status",
+      "icon": "assets/svg/icons/tallys/SupplyStatusIcon.svg",
+      "action": "orderDetailLotStatus"
+    },
+    {
+      "label": "Order-Details-Force-Commit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "orderDetailForce"
+    },
+    {
+      "label": "Delete Nos",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "orderDetailDeleteNos"
+    },
+    {
+      "label": "Hard Allocate",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "hardAllocate"
+    },
+    {
+      "label": "Remove Hard Allocate",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "removeHardAllocate"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "orderDetailDelete"
+    },
+    {
+      "label": "UCC-128-Maint",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "orderDetailUcc128Maint"
+    },
+    {
+      "label": "Move-Queue",
+      "icon": "assets/svg/icons/tallys/MoveHistoryIcon.svg",
+      "action": "orderDetailMoveQueue"
+    },
+    {
+      "label": "Serial Inquiry",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "orderDetSerialInquiry"
+    },
+    {
+      "label": "Extra Data",
+      "icon": "assets/svg/icons/tallys/ExtraDataIcon.svg",
+      "action": "extraData"
+    },
+    {
+      "label": "Serial Entry",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "serialEntry"
+    }
+  ]
+}

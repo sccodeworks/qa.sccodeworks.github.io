@@ -3,7 +3,7 @@
     "placeholder": "Search actions"
   },
   "items": [
-        {
+    {
       "label": "Priority",
       "icon": "assets/svg/icons/orders/UpdateTotalIcon.svg",
       "action": "maintainPriority"
@@ -17,6 +17,16 @@
       "label": "Bill Synopsis",
       "icon": "assets/svg/icons/orders/BillOfLoadingSynopsis.svg",
       "action": "billSynopsis"
+    },
+    {
+      "label": "Print",
+      "icon": "assets/svg/icons/orders/PrintBillOfLading.svg",
+      "action": "print"
+    },
+    {
+      "label": "Email",
+      "icon": "assets/svg/icons/orders/EmailNewOrder.svg",
+      "action": "Email"
     }
   ]
 }

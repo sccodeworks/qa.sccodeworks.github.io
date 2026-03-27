@@ -27,6 +27,33 @@
       "label": "Drop",
       "icon": "assets/svg/icons/Loads/drop.svg",
       "action": "Drop"
+    },
+    {
+      "label": "Move Queue",
+      "icon": "assets/svg/icons/orders/SendOrderToMove.svg",
+      "action": "MoveQueue"
+    },
+     {
+      "label": "Packsheet Only",
+      "icon": "assets/svg/icons/orders/SendOrderToMove.svg",
+      "action": "PacksheetOnly"
+    },
+    {
+      "label": "Vics Master Bl",
+      "icon": "assets/svg/icons/orders/BillOfLoadingSynopsis.svg",
+      "action": "VicsMasterBl"
     }
+    ,
+    {
+      "label": "Assign",
+      "icon": "assets/svg/icons/Loads/Assign.svg",
+      "action": "Assign"
+    },
+    {
+      "label": "Load MB On DS",
+      "icon": "assets/svg/icons/orders/DockSchedule.svg",
+      "action": "LoadMBonDS"
+    }
+    
   ]
 }

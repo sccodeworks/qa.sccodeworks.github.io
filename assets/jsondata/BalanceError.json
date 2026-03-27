@@ -9,9 +9,57 @@
       "action": "BalanceErrorsLotStatusForm"
     },
     {
-      "label": " Delete",
+      "label": "Delete",
       "icon": "assets/svg/dropdownicons/delete.svg",
       "action": "deleteBalanceError"
+    },
+    {
+      "label": "Item Status",
+      "icon": "assets/svg/icons/Items/ItemStatusInquiry.svg",
+      "action": "ItemStatus"
+    },
+    {
+      
+      "label": "Stock Activity Inquiry",
+      "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
+      "action": "LotActivity"
+    },
+     {
+      
+      "label": "Adjustments",
+      "icon": "assets/svg/icons/Items/MaintainWeightsIcon.svg",
+      "action": "itemAdjustment"
+    },
+     {
+      
+      "label": "Orders",
+      "icon": "assets/svg/icons/Items/ItemOrdersIcon.svg",
+      "action": "orders"
+    },
+    {
+      
+      "label": "Item Locations",
+      "icon": "assets/svg/icons/Items/MaintainWarehouseOpsIcon.svg",
+      "action": "getItemLocations"
+    },
+    {
+      
+      "label": "Balance",
+      "icon": "assets/svg/icons/Items/Balance.svg",
+      "action": "getItemBalances"
+    },
+    {
+      
+      "label": "Rebalance",
+      "icon": "assets/svg/icons/Items/KitPickInquiryIcon.svg",
+      "action": "Rebalance"
+    },
+    {
+      
+      "label": "Receivers",
+      "icon": "assets/svg/icons/tallys/WRInquiryIcon.svg",
+      "action": "getItemReceivers"
     }
+
   ]
 }

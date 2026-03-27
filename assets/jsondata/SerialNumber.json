@@ -1,0 +1,18 @@
+{
+  "search": {
+    "placeholder": "Search by Menu Options"
+  },
+  "items": [
+        {
+      "label": "Change",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateSerialnumbers"
+    },
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteSerialnumbers"
+    }
+    
+  ]
+}

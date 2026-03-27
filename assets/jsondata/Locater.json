@@ -1,0 +1,20 @@
+{
+  "header": [
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "LocaterDeleteForm"
+    }
+  ],
+  "search": {
+    "placeholder": "Search by Order"
+  },
+  "items": [
+    {
+      "label": "Inquiry",
+       "icon": "assets/svg/icons/receivables/AdjustInquiry.svg",
+      "action": "LocaterInquiryForm"
+    }
+    
+    ]
+}

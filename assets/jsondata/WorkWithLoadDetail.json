@@ -12,6 +12,21 @@
       "label": "Drop",
       "icon": "assets/svg/icons/Loads/drop.svg",
       "action": "Drop"
+    },
+    {
+      "label": "Order Details",
+      "icon": "assets/svg/icons/orders/OrderDetails.svg",
+      "action": "orderDetails"
+    },
+    {
+      "label": "Special Charges",
+      "icon": "assets/svg/icons/tallys/SpecialChargesIcon.svg",
+      "action": "specialCharges"
+    },
+    {
+      "label": "Event History",
+      "icon": "assets/svg/icons/orders/EventHistory.svg",
+      "action": "OrderEventHistory"
     }
   ]
 }
